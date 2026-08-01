@@ -1,0 +1,15 @@
+/* Preserve original site styles from static export */
+@import url('/css/13ltxijz.buw8.css');
+@import url('/css/0q-8-n0g7.2wt.css');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100%;
+}
