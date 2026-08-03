@@ -2,14 +2,47 @@
 @import url('/css/13ltxijz.buw8.css');
 @import url('/css/0q-8-n0g7.2wt.css');
 
+/* Jimmedaar theme: milk-white / soft blue + purple */
+:root {
+  --paper: #f4f7fc;
+  --paper-soft: #e8eef8;
+  --paper-edge: #d4dcf0;
+  --ink: #2a1848;
+  --ink-soft: #3d2666;
+  --ink-muted: #6b5b8a;
+  --gold: #7c3aed;
+  --gold-soft: #a78bfa;
+  --gold-ink: #5b21b6;
+  --rule: #2a18482e;
+  --rule-strong: #2a184859;
+  --rule-on-ink: #f4f7fc2e;
+}
+
 html {
   scroll-behavior: smooth;
 }
 
 body {
   margin: 0;
+  background:
+    radial-gradient(ellipse at 10% 0%, rgba(167, 139, 250, 0.18), transparent 45%),
+    radial-gradient(ellipse at 90% 20%, rgba(186, 214, 255, 0.35), transparent 50%),
+    linear-gradient(180deg, #f7f9fd 0%, #eef2fb 50%, #f4f7fc 100%);
+  background-attachment: fixed;
+  color: var(--ink);
 }
 
 #root {
   min-height: 100%;
+}
+
+/* Soft purple hero instead of black/red night rally */
+.jjp-hero {
+  background: linear-gradient(160deg, #2a1848 0%, #4c1d95 42%, #6d28d9 78%, #7c3aed 100%) !important;
+  border-color: rgba(167, 139, 250, 0.45) !important;
+}
+
+.jjp-hero-ticker {
+  background: #4c1d95 !important;
+  border-color: rgba(167, 139, 250, 0.7) !important;
 }

@@ -115,12 +115,12 @@ export default function SiteFooter() {
       </div>
       </a>
       <p className={"text-paper/65 text-sm leading-relaxed mt-5 sm:mt-6"}>
-      Independent satirical commentary website — satire and civic commentary only; not the official Jimmedaar Janata Party and not affiliated with the movement. Operated in compliance with applicable Indian law. Headquartered wherever the wifi works.
+      Jimmedaar Janata Party — aath agendas: kisan, coal, rojgar, food tax, safe fruit, schools, hospitals, mahangai. Headquartered wherever the people need us.
       </p>
       <p className={"text-paper/50 text-xs leading-relaxed mt-3"}>
-      Not affiliated with Jimmedaar Janata Party movement. The official movement is at
-      <a href={"https://cockroachjantaparty.org"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"text-gold/80 underline underline-offset-2 hover:text-gold transition"}>
-      cockroachjantaparty.org
+      Jimmedaar Janata Party isi agenda per kaam karega. Official site:
+      <a href={"https://jimmedaarjanataparty.org"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"text-gold/80 underline underline-offset-2 hover:text-gold transition"}>
+      jimmedaarjanataparty.org
       </a>
       .
       </p>
@@ -152,8 +152,8 @@ export default function SiteFooter() {
       </a>
       </li>
       <li>
-      <a className={"inline-block py-1 text-sm text-paper/80 hover:text-gold transition"} href={"/cockroach-tracker"}>
-      Tracker
+      <a className={"inline-block py-1 text-sm text-paper/80 hover:text-gold transition"} href={"#manifesto"}>
+      Agendas
       </a>
       </li>
       <li>
@@ -202,7 +202,7 @@ export default function SiteFooter() {
       <ul className={"space-y-2.5"}>
       <li>
       <a className={"inline-block py-1 text-sm text-paper/80 hover:text-gold transition"} href={"/join"}>
-      Join the swarm
+      Join Jimmedaar
       </a>
       </li>
       <li>
@@ -222,7 +222,7 @@ export default function SiteFooter() {
       </li>
       <li>
       <a className={"inline-block py-1 text-sm text-paper/80 hover:text-gold transition"} href={"/leave"}>
-      Leave the swarm
+      Leave Jimmedaar
       </a>
       </li>
       <li>
@@ -350,7 +350,7 @@ export default function SiteFooter() {
       .
       </div>
       <div className={"font-bold tracking-[0.18em] uppercase text-[0.62rem] sm:text-[0.7rem]"} style={{fontFamily: "var(--font-condensed)"}}>
-      ⚠ A work of satire
+      Eight agendas · One mission
       </div>
       <nav className={"hidden sm:flex flex-wrap items-center gap-3"} aria-label={"Quick links"}>
       <a className={"hover:text-gold transition"} href={"/legal"}>

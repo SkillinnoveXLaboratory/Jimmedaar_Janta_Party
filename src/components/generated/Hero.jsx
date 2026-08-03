@@ -1,27 +1,27 @@
 export default function Hero() {
   return (
     <>
-      <section aria-label={"Hero — JJP nighttime rally"} className={"relative bg-black text-paper overflow-hidden border-b-2 border-[#c9a227]/40 min-h-[100svh] sm:min-h-[88vh] flex"}>
+      <section aria-label={"Hero — Jimmedaar Janata Party agendas"} className={"relative jjp-hero text-paper overflow-hidden border-b-2 border-[#c9a227]/40 min-h-[100svh] sm:min-h-[88vh] flex"}>
       <div className={"absolute inset-0"} style={{contain: "paint"}} aria-hidden={"true"}>
-      <div className={"absolute inset-0"} style={{background: "radial-gradient(ellipse at 50% 30%, #2a0a08 0%, #160603 45%, #0a0301 100%)"}}></div>
-      <div className={"absolute inset-x-0 bottom-0 h-2/3 pointer-events-none"} style={{background: "radial-gradient(ellipse at 50% 100%, rgba(176,34,18,0.35) 0%, rgba(120,16,8,0.18) 35%, transparent 70%)"}}></div>
+      <div className={"absolute inset-0"} style={{background: "radial-gradient(ellipse at 50% 30%, #4c1d95 0%, #2a1848 55%, #1e1038 100%)"}}></div>
+      <div className={"absolute inset-x-0 bottom-0 h-2/3 pointer-events-none"} style={{background: "radial-gradient(ellipse at 50% 100%, rgba(124,58,237,0.35) 0%, rgba(76,29,149,0.2) 35%, transparent 70%)"}}></div>
       <div className={"absolute inset-x-0 top-0 h-1/2 bg-gradient-to-b from-black/70 via-black/30 to-transparent pointer-events-none"}></div>
       <img src={"/images/parliament.svg"} alt={""} aria-hidden={"true"} className={"absolute bottom-[20%] left-1/2 -translate-x-1/2 w-[150%] max-w-none h-auto"} style={{opacity: "0.78"}} />
       <img src={"/images/crowd.svg"} alt={""} aria-hidden={"true"} className={"absolute bottom-0 inset-x-0 w-full h-[22vh] sm:h-[26vh] object-cover object-bottom"} />
       <div className={"absolute inset-0 pointer-events-none"} style={{background: "radial-gradient(ellipse at 28% 45%, transparent 35%, rgba(0,0,0,0.55) 75%, rgba(0,0,0,0.85) 100%)"}}></div>
       </div>
       <div className={"absolute top-3 right-3 sm:top-5 sm:right-5 md:top-6 md:right-6 z-20 w-[104px] sm:w-[180px] md:w-[210px] pointer-events-none"} style={{transform: "rotate(2deg)"}}>
-      <div className={"bg-paper-soft border-2 border-ink rounded-sm shadow-[5px_5px_0_0_rgba(0,0,0,0.85)] p-2 sm:p-2.5"}>
+      <div className={"bg-paper-soft border-2 border-ink rounded-sm shadow-[5px_5px_0_0_rgba(42,24,72,0.35)] p-2 sm:p-2.5"}>
       <div className={"flex items-center justify-between condensed text-[0.55rem] sm:text-[0.65rem] text-ink/75 mb-1.5 px-0.5"}>
       <span>
-      Fan poster (satire) · No. 001
+      Agenda poster · No. 001
       </span>
       <span className={"text-gold tracking-widest hidden sm:inline"}>
       ★ ★ ★
       </span>
       </div>
       <div className={"relative aspect-[3/4] overflow-hidden border border-ink/30"}>
-      <img alt={"Jimmedaar Janata Party founder addresses the swarm at the inaugural rally"} loading={"eager"} decoding={"async"} data-nimg={"fill"} className={"object-cover"} style={{position: "absolute", height: "100%", width: "100%", left: "0", top: "0", right: "0", bottom: "0", color: "transparent"}} sizes={"(max-width: 640px) 140px, (max-width: 768px) 180px, 210px"} srcSet={"/images/image_38.jpg 32w, /images/image_40.jpg 48w, /images/image_35.jpg 64w, /images/image_34.jpg 96w, /images/image_33.jpg 128w, /images/image_32.jpg 256w, /images/image_31.jpg 384w, /images/image_39.jpg 640w, /images/image_44.jpg 750w, /images/image_50.jpg 828w, /images/image_41.jpg 1080w, /images/image_43.jpg 1200w, /images/image_42.jpg 1920w, /images/image_79.jpg 2048w, /images/image_4.jpg 3840w"} src={"/images/image_4.jpg"} />
+      <img alt={"Jimmedaar Janata Party founder presents eight agendas at the launch rally"} loading={"eager"} decoding={"async"} data-nimg={"fill"} className={"object-cover"} style={{position: "absolute", height: "100%", width: "100%", left: "0", top: "0", right: "0", bottom: "0", color: "transparent"}} sizes={"(max-width: 640px) 140px, (max-width: 768px) 180px, 210px"} srcSet={"/images/image_38.jpg 32w, /images/image_40.jpg 48w, /images/image_35.jpg 64w, /images/image_34.jpg 96w, /images/image_33.jpg 128w, /images/image_32.jpg 256w, /images/image_31.jpg 384w, /images/image_39.jpg 640w, /images/image_44.jpg 750w, /images/image_50.jpg 828w, /images/image_41.jpg 1080w, /images/image_43.jpg 1200w, /images/image_42.jpg 1920w, /images/image_79.jpg 2048w, /images/image_4.jpg 3840w"} src={"/images/image_4.jpg"} />
       <div className={"absolute top-1.5 right-1.5 approved-stamp text-gold-soft bg-ink/40 !text-[0.5rem] sm:!text-[0.6rem] !px-1.5 !py-0.5 !tracking-[0.18em]"}>
       Approved
       </div>
@@ -33,17 +33,17 @@ export default function Hero() {
       <div className={"max-w-2xl"}>
       <div className={"pr-[116px] sm:pr-0"}>
       <div className={"eyebrow text-gold mb-5 sm:mb-6 flex items-center gap-3"}>
-      <span className={"inline-block"} style={{width: "12px", height: "12px", background: "#c9a227", transform: "rotate(45deg)"}} aria-hidden={"true"}></span>
+      <span className={"inline-block"} style={{width: "12px", height: "12px", background: "#a78bfa", transform: "rotate(45deg)"}} aria-hidden={"true"}></span>
       <span>
-      Live rally · Since 2026
+      Eight Agendas · Since 2026
       </span>
       </div>
       <h1 className={"text-[1.9rem] sm:text-7xl md:text-8xl lg:text-[7.5rem] leading-[0.98] sm:leading-[0.92] mb-6 sm:mb-8 break-words"}>
       <span className={"block text-paper"}>
-      Voice of the
+      Jimmedaar
       </span>
       <span className={"block text-gold"}>
-      Burnt-Out Youth.
+      Janata Party.
       </span>
       <span className={"block text-paper"}>
       <em></em>
@@ -51,14 +51,14 @@ export default function Hero() {
       </h1>
       </div>
       <p className={"condensed text-[0.68rem] sm:text-xs font-semibold uppercase tracking-[0.14em] text-gold-soft/90 mb-5 drop-shadow-[0_1px_6px_rgba(0,0,0,0.6)]"}>
-      Independent Satire · Civic Commentary · Community Project
+      Kisan · Rojgar · Shiksha · Sehat · Mahangai
       </p>
       <p className={"max-w-xl text-base sm:text-lg leading-relaxed text-paper/85 mb-10 drop-shadow-[0_1px_8px_rgba(0,0,0,0.6)]"}>
-      Independent satirical commentary for the people the system forgot to count. Five demands. Community funded. One large, stubborn swarm.
+      Eight agendas. Community powered. Jimmedaar Janata Party isi agenda per kaam karega.
       </p>
       <div className={"flex flex-col sm:flex-row gap-3 sm:gap-4 mb-5"}>
-      <a className={"condensed text-sm font-semibold tracking-wider bg-gold text-ink px-7 py-4 min-h-[48px] rounded-sm hover:bg-paper hover:text-ink transition inline-flex items-center justify-center gap-2 shadow-[0_6px_18px_rgba(201,162,39,0.4)]"} href={"/join"}>
-      JOIN THE SWARM
+      <a className={"condensed text-sm font-semibold tracking-wider bg-gold text-ink px-7 py-4 min-h-[48px] rounded-sm hover:bg-paper hover:text-ink transition inline-flex items-center justify-center gap-2 shadow-[0_6px_18px_rgba(124,58,237,0.4)]"} href={"/join"}>
+      JOIN JIMMEDAAR
       <span aria-hidden={"true"}>
       →
       </span>
@@ -72,7 +72,7 @@ export default function Hero() {
       <path d={"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}></path>
       <path d={"m9 12 2 2 4-4"}></path>
       </svg>
-      Peaceful protest guidelines
+      Read our eight agendas
       </a>
       <dl className={"grid grid-cols-2 sm:grid-cols-4 gap-6 sm:gap-8 pt-6 border-t border-paper/25 max-w-2xl"}>
       <div>
@@ -85,10 +85,10 @@ export default function Hero() {
       </div>
       <div>
       <dt className={"font-display text-3xl sm:text-4xl text-paper drop-shadow-[0_1px_6px_rgba(0,0,0,0.6)]"}>
-      5
+      8
       </dt>
       <dd className={"condensed text-[0.7rem] text-paper/70 mt-1"}>
-      Demands
+      Agendas
       </dd>
       </div>
       <div>
@@ -112,14 +112,14 @@ export default function Hero() {
       </div>
       </div>
       <div className={"absolute inset-x-0 bottom-0 z-20"}>
-      <div className={"bg-[#7a1410] text-paper border-t-2 border-[#c9a227]/70 py-2 overflow-hidden"}>
+      <div className={"jjp-hero-ticker text-paper border-t-2 py-2 overflow-hidden"}>
       <div className={"news-ticker-track"}>
       <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
       <span className={"text-gold-soft"}>
       ●
       </span>
       <span>
-      BREAKING · JJP rally swells past Sansad Bhavan
+      BREAKING · JJP: Kisanon ko facility denge
       </span>
       </span>
       <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
@@ -127,7 +127,7 @@ export default function Hero() {
       ●
       </span>
       <span>
-      EXIT POLLS · Burnt-Out Youth bloc surges +14
+      EXIT POLLS · Garibon ke liye rojgar laayenge
       </span>
       </span>
       <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
@@ -135,55 +135,7 @@ export default function Hero() {
       ●
       </span>
       <span>
-      EXCLUSIVE · "We are not bugs, we are voters" — leader
-      </span>
-      </span>
-      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
-      <span className={"text-gold-soft"}>
-      ●
-      </span>
-      <span>
-      TRENDING · #JimmedaarJanataParty top all India
-      </span>
-      </span>
-      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
-      <span className={"text-gold-soft"}>
-      ●
-      </span>
-      <span>
-      MARKETS · Godi-media shares slip on licence review
-      </span>
-      </span>
-      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
-      <span className={"text-gold-soft"}>
-      ●
-      </span>
-      <span>
-      WEATHER · Smoke advisory near Jantar Mantar
-      </span>
-      </span>
-      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
-      <span className={"text-gold-soft"}>
-      ●
-      </span>
-      <span>
-      BREAKING · JJP rally swells past Sansad Bhavan
-      </span>
-      </span>
-      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
-      <span className={"text-gold-soft"}>
-      ●
-      </span>
-      <span>
-      EXIT POLLS · Burnt-Out Youth bloc surges +14
-      </span>
-      </span>
-      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
-      <span className={"text-gold-soft"}>
-      ●
-      </span>
-      <span>
-      EXCLUSIVE · "We are not bugs, we are voters" — leader
+      EXCLUSIVE · "Kisanon ko facility denge" — leader
       </span>
       </span>
       <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
@@ -199,7 +151,7 @@ export default function Hero() {
       ●
       </span>
       <span>
-      MARKETS · Godi-media shares slip on licence review
+      MARKETS · Food items par tax kam karenge
       </span>
       </span>
       <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
@@ -207,7 +159,55 @@ export default function Hero() {
       ●
       </span>
       <span>
-      WEATHER · Smoke advisory near Jantar Mantar
+      WEATHER · Badhti mahangai rokna hai
+      </span>
+      </span>
+      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
+      <span className={"text-gold-soft"}>
+      ●
+      </span>
+      <span>
+      BREAKING · JJP: Kisanon ko facility denge
+      </span>
+      </span>
+      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
+      <span className={"text-gold-soft"}>
+      ●
+      </span>
+      <span>
+      EXIT POLLS · Garibon ke liye rojgar laayenge
+      </span>
+      </span>
+      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
+      <span className={"text-gold-soft"}>
+      ●
+      </span>
+      <span>
+      EXCLUSIVE · "Kisanon ko facility denge" — leader
+      </span>
+      </span>
+      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
+      <span className={"text-gold-soft"}>
+      ●
+      </span>
+      <span>
+      TRENDING · #JimmedaarJanataParty top all India
+      </span>
+      </span>
+      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
+      <span className={"text-gold-soft"}>
+      ●
+      </span>
+      <span>
+      MARKETS · Food items par tax kam karenge
+      </span>
+      </span>
+      <span className={"condensed text-[0.7rem] sm:text-xs font-semibold inline-flex items-center gap-3 px-6"}>
+      <span className={"text-gold-soft"}>
+      ●
+      </span>
+      <span>
+      WEATHER · Badhti mahangai rokna hai
       </span>
       </span>
       </div>
@@ -222,7 +222,7 @@ export default function Hero() {
       ✦
       </span>
       <span>
-      Together We Survive
+      Kisanon Ko Facility
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -230,7 +230,7 @@ export default function Hero() {
       ✦
       </span>
       <span>
-      Stronger Together
+      Mahangai Rokna Hai
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -238,7 +238,7 @@ export default function Hero() {
       ✦
       </span>
       <span>
-      Unity · Resilience · Progress
+      Rojgar · Shiksha · Sehat
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -246,7 +246,7 @@ export default function Hero() {
       ✦
       </span>
       <span>
-      You Cannot Squash A Movement
+      Eight Agendas · One Mission
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -254,7 +254,7 @@ export default function Hero() {
       ✦
       </span>
       <span>
-      Together We Survive
+      Kisanon Ko Facility
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -262,7 +262,7 @@ export default function Hero() {
       ✦
       </span>
       <span>
-      Stronger Together
+      Mahangai Rokna Hai
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -270,7 +270,7 @@ export default function Hero() {
       ✦
       </span>
       <span>
-      Unity · Resilience · Progress
+      Rojgar · Shiksha · Sehat
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -278,7 +278,7 @@ export default function Hero() {
       ✦
       </span>
       <span>
-      You Cannot Squash A Movement
+      Eight Agendas · One Mission
       </span>
       </span>
       </div>

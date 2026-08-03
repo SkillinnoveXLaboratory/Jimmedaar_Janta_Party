@@ -8,9 +8,9 @@ export default function Faq() {
       Frequently Asked
       </div>
       <h2 className={"text-5xl sm:text-6xl md:text-7xl mb-6"}>
-      About the
+      About our
       <em className={"text-gold-ink"}>
-      movement.
+      agendas.
       </em>
       </h2>
       <p className={"text-base sm:text-lg text-ink/75"}>
@@ -29,7 +29,7 @@ export default function Faq() {
       </span>
       </summary>
       <div className={"mt-3 text-ink/80 leading-relaxed"}>
-      Jimmedaar Janata Party (JJP) is an Indian satirical political movement founded in May 2026 by Abhijeet Dipke, in response to the public use of "cockroach" as a slur against young, unemployed and politically active Indians. It reclaims the insult and pairs it with five demands covering judicial reform, electoral integrity, women's reservation, media monopoly, and the anti-defection law. This website (JJP) is an independent satirical commentary website about that movement — not the official JJP, which is at cockroachjantaparty.org.
+      Jimmedaar Janata Party (JJP) logon ke aath agendas par kaam karti hai: kisanon ko facility, contract coal khatm, garibon ka rojgar, food tax kam, jahrile fruit band, sarkari school shiksha, sarkari hospital treatment, aur badhti mahangai rokna.
       </div>
       </details>
       </li>
@@ -37,14 +37,14 @@ export default function Faq() {
       <details className={"group py-5 sm:py-6"}>
       <summary className={"flex items-start justify-between gap-6 cursor-pointer list-none"}>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight group-open:text-gold-ink transition"}>
-      Why is it called Jimmedaar Janata Party?
+      Why Jimmedaar Janata Party?
       </h3>
       <span aria-hidden={"true"} className={"condensed text-gold-ink text-xl shrink-0 mt-1 transition-transform group-open:rotate-45"}>
       +
       </span>
       </summary>
       <div className={"mt-3 text-ink/80 leading-relaxed"}>
-      The name reclaims a slur used against young, jobless and online Indians. Reclaiming insults — Tories, Quakers, Suffragettes, Queer — is a recurring pattern in political movements: the more derisive the original term, the more durable the eventual movement. The full argument is in our essay on reclaimed symbols.
+      Jimmedaar means responsible. Janata means the people. The name stands for a party that works only on its eight agendas for farmers, workers, schools, hospitals, and fair prices.
       </div>
       </details>
       </li>
@@ -74,7 +74,7 @@ export default function Faq() {
       </span>
       </summary>
       <div className={"mt-3 text-ink/80 leading-relaxed"}>
-      To join the movement itself, go to the official JJP at cockroachjantaparty.org — this site cannot enrol you there. What you can do here is create a free community account on this website, on the /join page, which lets you post and take part in the community. It is not JJP membership and carries no standing with the movement. The four tongue-in-cheek standards are: overqualified (three certificates, zero callbacks), politically frustrated (complains professionally, votes emotionally), civic anger (fuel prices, layoffs, unpaid internships), and financially confused (salary comes, EMI takes, UPI finishes the rest).
+      Join page par aath agendas tap karke free community account banao. Jimmedaar Janata Party isi agenda per kaam karega — kisan, rojgar, school, hospital aur mahangai.
       </div>
       </details>
       </li>
@@ -89,7 +89,7 @@ export default function Faq() {
       </span>
       </summary>
       <div className={"mt-3 text-ink/80 leading-relaxed"}>
-      No. The JJP movement is not registered with the Election Commission of India and describes itself as a platform rather than a conventional party. This website is not a registered party either — it is an independent satirical commentary website about the movement. The Disclaimer page lays out the line between sincere and satirical in detail.
+      Jimmedaar Janata Party ek janata-first platform hai jo aath clear agendas par kaam karti hai. Focus politics nahi — kisan, jobs, schools, hospitals aur fair prices.
       </div>
       </details>
       </li>
@@ -104,7 +104,7 @@ export default function Faq() {
       </span>
       </summary>
       <div className={"mt-3 text-ink/80 leading-relaxed"}>
-      Signing up on this website is free — there are no fees, no selfies with the leader, no "missed call to register", and you can delete your account whenever you like. To be clear, that is a community account on this site, not membership of the JJP movement.
+      Signing up on this website is free — there are no fees, no selfies with the leader, no "missed call to register", and you can delete your account whenever you like. To be clear, that is a community account on this site, not membership of the JJP agendas.
       </div>
       </details>
       </li>
@@ -119,7 +119,7 @@ export default function Faq() {
       </span>
       </summary>
       <div className={"mt-3 text-ink/80 leading-relaxed"}>
-      This website has no office and no salaried staff — it runs wherever the wifi works, maintained by one independent developer and funded by voluntary contributions toward hosting costs. For the movement’s own contact details, see cockroachjantaparty.org or email contact@cockroachjantaparty.org.
+      This website has no office and no salaried staff — it runs wherever the wifi works, maintained by one independent developer and funded by voluntary contributions toward hosting costs. For the movement’s own contact details, see jimmedaarjanataparty.org or email contact@jimmedaarjanataparty.org.
       </div>
       </details>
       </li>
@@ -134,7 +134,7 @@ export default function Faq() {
       </span>
       </summary>
       <div className={"mt-3 text-ink/80 leading-relaxed"}>
-      The JJP movement was founded in May 2026 by Abhijeet Dipke, who leads it along with its official spokespersons. This website is not run by them: it is an independent satirical commentary website maintained by a supporter, and nobody here speaks for the movement. Journalists should direct anything about JJP to cockroachjantaparty.org or contact@cockroachjantaparty.org.
+      Jimmedaar Janata Party ka focus aath agendas hain. Sampark: contact@jimmedaarjanataparty.org ya jimmedaarjanataparty.org.
       </div>
       </details>
       </li>
@@ -149,7 +149,7 @@ export default function Faq() {
       </span>
       </summary>
       <div className={"mt-3 text-ink/80 leading-relaxed"}>
-      No. The JJP movement fields no candidates and is not registered with the Election Commission of India. This website certainly does not — it is an independent satirical commentary website, not an electoral organisation.
+      Focus candidates nahi — agendas hain. Kisan facility, rojgar, food tax, safe fruit, schools, hospitals aur mahangai rokna.
       </div>
       </details>
       </li>
@@ -164,7 +164,7 @@ export default function Faq() {
       </span>
       </summary>
       <div className={"mt-3 text-ink/80 leading-relaxed"}>
-      No. Neither the JJP movement nor this website is affiliated with, endorsed by, or funded by any political party, candidate, or election campaign. Separately and importantly: this website is also not affiliated with or endorsed by the JJP movement itself — it is an independent satirical commentary website. The official movement is at cockroachjantaparty.org.
+      Jimmedaar Janata Party kisi badi party ka wing nahi. Independent agenda platform — official: jimmedaarjanataparty.org.
       </div>
       </details>
       </li>
@@ -205,8 +205,8 @@ export default function Faq() {
       contact@localhost
       </a>
       for website queries — or the official movement at
-      <a href={"mailto:contact@cockroachjantaparty.org"} className={"text-gold-ink underline hover:text-ink transition"}>
-      contact@cockroachjantaparty.org
+      <a href={"mailto:contact@jimmedaarjanataparty.org"} className={"text-gold-ink underline hover:text-ink transition"}>
+      contact@jimmedaarjanataparty.org
       </a>
       .
       </p>

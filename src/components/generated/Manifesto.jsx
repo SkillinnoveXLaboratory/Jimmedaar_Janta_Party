@@ -51,7 +51,7 @@ export default function Manifesto() {
       Garibon ke liye rojgar laayenge.
       </strong>
       <span>
-      {" "}Gareeb parivaar ke liye honest employment — local skill training, fair-wage public works, aur chhote vyapar ka support. Connection ke bina youth ko bhi asli mauka milega. Har block mein rojgar desk, placement help, aur wage theft se suraksha priority hogi. Jimmedaar Janata Party maanti hai: garib ghar mein steady kaam hi strong desh ka pehla kadam hai.
+      {" "}Gareeb parivaar ke liye honest employment — local skill training, fair-wage public works, aur chhote vyapar ka support. Samparkion ke bina youth ko bhi asli mauka milega. Har block mein rojgar desk, placement help, aur wage theft se suraksha priority hogi. Jimmedaar Janata Party maanti hai: garib ghar mein steady kaam hi strong desh ka pehla kadam hai.
       </span>
       </p>
       </li>

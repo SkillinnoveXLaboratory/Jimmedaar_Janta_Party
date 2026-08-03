@@ -6,11 +6,11 @@ export default function ProtestUpdate() {
       <div className={"grid md:grid-cols-[1fr_auto] gap-6 items-center"}>
       <div>
       <div className={"eyebrow text-gold-ink mb-2"}>
-      Latest protest update
+      Latest agenda update
       </div>
       <h2 className={"font-display text-2xl sm:text-3xl leading-tight mb-2"}>
       <a className={"hover:text-gold-ink transition"} href={"/protests"}>
-      When the Party Door Knocks, It Usually Wants Your Soul
+      Kisanon Ko Facility: Jimmedaar Ka Pehla Wada
       </a>
       </h2>
       <p className={"text-sm text-ink/70"}>
@@ -23,7 +23,7 @@ export default function ProtestUpdate() {
       <a className={"condensed text-xs font-semibold tracking-wider bg-ink text-paper px-6 py-3 rounded-sm hover:bg-gold hover:text-ink transition text-center"} href={"/protests"}>
       VIEW TIMELINE →
       </a>
-      <a href={"http://localhost:5173/news/cjp-founder-abhijeet-dipke-received-bjp-join-or-face-consequences-threat-claims"} rel={"noopener noreferrer"} className={"condensed text-xs font-semibold tracking-wider border-2 border-ink px-6 py-3 rounded-sm hover:border-gold hover:text-gold-ink transition text-center"}>
+      <a href={"http://localhost:5173/news/jjp-agenda-jjp-agenda-received-bjp-join-or-face-consequences-threat-claims"} rel={"noopener noreferrer"} className={"condensed text-xs font-semibold tracking-wider border-2 border-ink px-6 py-3 rounded-sm hover:border-gold hover:text-gold-ink transition text-center"}>
       READ DISPATCH →
       </a>
       </div>

@@ -7,7 +7,7 @@ const NAV_ITEMS = [
   { label: 'Gallery', href: '/gallery' },
   { label: 'Members', href: '/members' },
   { label: 'Issues', href: '/voice' },
-  { label: 'Tracker', href: '/cockroach-tracker' },
+  { label: 'Agendas', href: '#manifesto' },
   { label: 'Protests', href: '/protests' },
   { label: 'Contact', href: '#contact' },
 ];
@@ -19,7 +19,7 @@ const SECTION_ROUTES = {
   '/gallery': '#viral-videos',
   '/members': '#join',
   '/voice': '#contact',
-  '/cockroach-tracker': '#contact',
+  '/agenda-tracker': '#manifesto',
   '/protests': '#news',
   '/support-the-developer': '#contact',
   '/voice/raise': '#contact',
@@ -47,17 +47,17 @@ function CloseIcon() {
 function PartyEmblem() {
   return (
     <svg width="48" height="48" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jimmedaar Janata Party emblem" className="shrink-0 drop-shadow-sm">
-      <circle cx="100" cy="100" r="96" fill="#F4EBD7" />
-      <circle cx="100" cy="100" r="96" fill="none" stroke="#1A1108" strokeWidth="6" />
-      <circle cx="100" cy="100" r="85" fill="none" stroke="#C9A227" strokeWidth="1.6" strokeDasharray="3 4" />
-      <circle cx="100" cy="100" r="76" fill="none" stroke="#1A1108" strokeWidth="1.8" />
-      <g fill="#C9A227">
+      <circle cx="100" cy="100" r="96" fill="#F4F7FC" />
+      <circle cx="100" cy="100" r="96" fill="none" stroke="#2A1848" strokeWidth="6" />
+      <circle cx="100" cy="100" r="85" fill="none" stroke="#7C3AED" strokeWidth="1.6" strokeDasharray="3 4" />
+      <circle cx="100" cy="100" r="76" fill="none" stroke="#2A1848" strokeWidth="1.8" />
+      <g fill="#7C3AED">
         <polygon points="100,18 101.8,22.6 106.8,22.6 102.7,25.4 104.4,30 100,27.2 95.6,30 97.3,25.4 93.2,22.6 98.2,22.6" />
         <polygon points="100,182 101.8,177.4 106.8,177.4 102.7,174.6 104.4,170 100,172.8 95.6,170 97.3,174.6 93.2,177.4 98.2,177.4" />
         <circle cx="18" cy="100" r="2.4" />
         <circle cx="182" cy="100" r="2.4" />
       </g>
-      <g transform="translate(100 107)" fill="#1A1108" stroke="#1A1108" strokeLinecap="round" strokeLinejoin="round">
+      <g transform="translate(100 107)" fill="#2A1848" stroke="#2A1848" strokeLinecap="round" strokeLinejoin="round">
         <path d="M -3 -34 Q -15 -50 -30 -56" fill="none" strokeWidth="3" />
         <path d="M 3 -34 Q 15 -50 30 -56" fill="none" strokeWidth="3" />
         <path d="M -12 -10 Q -28 -16 -42 -22" fill="none" strokeWidth="3.6" />
@@ -69,7 +69,7 @@ function PartyEmblem() {
         <ellipse cx="0" cy="-28" rx="8" ry="6" />
         <path d="M -14 -22 Q -14 -8 -10 -4 L 10 -4 Q 14 -8 14 -22 Q 0 -27 -14 -22 Z" />
         <path d="M -16 -5 Q -22 4 -18 18 Q -12 32 0 34 Q 12 32 18 18 Q 22 4 16 -5 Z" />
-        <line x1="0" y1="-3" x2="0" y2="32" stroke="#F4EBD7" strokeWidth="1.4" opacity="0.55" />
+        <line x1="0" y1="-3" x2="0" y2="32" stroke="#F4F7FC" strokeWidth="1.4" opacity="0.55" />
       </g>
     </svg>
   );
@@ -156,7 +156,7 @@ export default function SiteHeader() {
             href="/join"
             onClick={(e) => navigate('/join', e)}
           >
-            JOIN THE SWARM →
+            JOIN JIMMEDAAR →
           </a>
           <a
             className="hidden xl:inline-flex items-center condensed text-xs font-semibold tracking-wider border-2 border-ink text-ink px-3.5 py-3 min-h-[44px] rounded-sm hover:bg-ink hover:text-paper transition whitespace-nowrap"
@@ -203,7 +203,7 @@ export default function SiteHeader() {
               href="/join"
               onClick={(e) => navigate('/join', e)}
             >
-              JOIN THE SWARM →
+              JOIN JIMMEDAAR →
             </a>
             <a
               className="condensed text-xs font-semibold tracking-wider border-2 border-ink text-ink px-5 py-3 rounded-sm text-center"

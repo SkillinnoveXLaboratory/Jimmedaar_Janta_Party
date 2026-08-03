@@ -7,7 +7,7 @@ const SECTION_ROUTES = {
   '/gallery': '#viral-videos',
   '/members': '#join',
   '/voice': '#contact',
-  '/cockroach-tracker': '#contact',
+  '/agenda-tracker': '#manifesto',
   '/protests': '#news',
   '/support-the-developer': '#contact',
   '/legal': '#contact',

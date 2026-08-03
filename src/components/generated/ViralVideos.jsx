@@ -6,16 +6,16 @@ export default function ViralVideos() {
       <div className={"max-w-7xl mx-auto px-4 sm:px-6 relative"}>
       <div className={"text-center mb-12 sm:mb-16 max-w-2xl mx-auto"}>
       <div className={"eyebrow text-gold mb-5"}>
-      Going viral
+      Agenda videos
       </div>
       <h2 id={"viral-videos-heading"} className={"font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-[0.95]"}>
-      The movement on 
+      The agendas on 
       <em className={"text-gold"}>
       camera.
       </em>
       </h2>
       <p className={"mt-5 text-base sm:text-lg text-paper/75 leading-relaxed"}>
-      Clips from rallies, roasts, and the internet doing what the internet does best — spreading the painfully true parts faster than any manifesto PDF.
+      Clips on farmers, jobs, schools, hospitals, food tax and mahangai — Jimmedaar Janata Party isi agenda per kaam karega.
       </p>
       </div>
       <div className={"space-y-3"}>
@@ -32,22 +32,22 @@ export default function ViralVideos() {
       </div>
       <div className={""}>
       <h3 className={"font-display text-2xl sm:text-3xl leading-tight text-paper"}>
-      PM Modi गाली पर रील बनाकर विक्टिम कार्ड खेल रहे हैं ? || Sanjay Singh Exclusive || Ajit Anjum
+      JJP Agenda 01: Kisanon Ko Facility Denge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm sm:text-base"}>
-      PM Modi गाली पर रील बनाकर विक्टिम कार्ड खेल रहे हैं ? || Sanjay Singh Exclusive || Ajit Anjum
+      JJP Agenda 01: Kisanon Ko Facility Denge
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/9RY2eNUDKG0"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/9RY2eNUDKG0
+      JJP Agenda 02: Contract Coal Khatm Karenge
       </a>
       </p>
       </div>
       </div>
       <div className={"mt-12 sm:mt-16"}>
       <div className={"eyebrow text-gold mb-4"}>
-      More from the swarm
+      More from the agendas
       </div>
       <div className={"relative w-full"} role={"region"} aria-roledescription={"carousel"} data-slot={"carousel"} aria-label={"More viral videos"}>
       <div className={"overflow-hidden"} data-slot={"carousel-content"}>
@@ -76,7 +76,7 @@ export default function ViralVideos() {
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/kQLN0wXp7xI"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/kQLN0wXp7xI
+      JJP Agenda 03: Garibon Ke Liye Rojgar Laayenge
       </a>
       </p>
       </div>
@@ -117,12 +117,12 @@ export default function ViralVideos() {
       {"We will sit on DHARNA again’ JJP’s big statement, Saurav & Ratna EXCLUSIVE"}
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      The agreement reached after the Jantar Mantar protests is facing fresh uncertainty. Student leaders associated with JJP have issued what they describe as a final ultimatum to the administration, alleging that key commitments—including action on FIR withdrawals and accountabilit
+      Jimmedaar Janata Party farmers ke liye MSP, irrigation, cold storage aur easy credit ensure karegi.
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/VCyuYNPBYW0"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/VCyuYNPBYW0
+      JJP Agenda 04: Food Items Par Tax Kam Karenge
       </a>
       </p>
       </div>
@@ -145,15 +145,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      Jantar Mantar पर पत्थर लदे ट्रक और पैलेट गन पर कैसे दो पत्रकारों ने दिल्ली पुलिस को किया एक्सपोज ?
+      JJP Agenda 05: Jahrile Fruit Bechne Nahi Denge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      Jantar Mantar पर पत्थर लदे ट्रक और पैलेट गन पर कैसे दो पत्रकारों ने दिल्ली पुलिस को किया एक्सपोज ?
+      JJP Agenda 05: Jahrile Fruit Bechne Nahi Denge
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/u9b0XMMC1tU"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/u9b0XMMC1tU
+      JJP Agenda 06: Sarkari Schoolon Mein Acchi Shiksha
       </a>
       </p>
       </div>
@@ -176,15 +176,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      JJP Warns Government of Fresh Protest,Demands Complete Withdrawal of FIRs
+      JJP Agenda 07: Sarkari Hospital Mein Acchi Treatment
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      JJP Warns Government of Fresh Protest,Demands Complete Withdrawal of FIRs
+      JJP Agenda 07: Sarkari Hospital Mein Acchi Treatment
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/3glO5c88-o4"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/3glO5c88-o4
+      JJP Agenda 08: Badhti Hui Mahangai Rokenge
       </a>
       </p>
       </div>
@@ -207,15 +207,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      ‘अगर गिरफ़्तार छात्रों को नहीं छोड़ा गया तो…’ JJP ने दिया सरकार को Ultimatum
+      JJP Agenda 01: Kisanon Ko Facility Denge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      ‘अगर गिरफ़्तार छात्रों को नहीं छोड़ा गया तो…’ JJP ने दिया सरकार को Ultimatum
+      JJP Agenda 01: Kisanon Ko Facility Denge
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/XaWivTT8P-A"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/XaWivTT8P-A
+      JJP Agenda 02: Contract Coal Khatm Karenge
       </a>
       </p>
       </div>
@@ -238,15 +238,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      Jantar- Mantar प्रोटेस्ट दिखाने वाले| पत्रकारों पर Government का हमला!|अमित मालवीय तब रो रहे थे!|Dharmendra
+      JJP Agenda 03: Garibon Ke Liye Rojgar Laayenge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      Jantar- Mantar प्रोटेस्ट दिखाने वाले| पत्रकारों पर Government का हमला!|अमित मालवीय तब रो रहे थे!|Dharmendra
+      JJP Agenda 03: Garibon Ke Liye Rojgar Laayenge
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/CvTkZZVemnk"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/CvTkZZVemnk
+      JJP Agenda 04: Food Items Par Tax Kam Karenge
       </a>
       </p>
       </div>
@@ -284,15 +284,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      Jantar Mantar से आखिरी वीडियो, Gen Z को सलाम है || Ajit Anjum
+      JJP Agenda 05: Jahrile Fruit Bechne Nahi Denge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      Jantar Mantar से आखिरी वीडियो, Gen Z को सलाम है || Ajit Anjum
+      JJP Agenda 05: Jahrile Fruit Bechne Nahi Denge
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/nc7vhJ5RpCo"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/nc7vhJ5RpCo
+      JJP Agenda 06: Sarkari Schoolon Mein Acchi Shiksha
       </a>
       </p>
       </div>
@@ -315,15 +315,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      BREAKING: शिक्षा मंत्री का इस्तीफा, छात्रों के अनशन के आगे झुकी सरकार
+      JJP Agenda 07: Sarkari Hospital Mein Acchi Treatment
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      BREAKING: शिक्षा मंत्री का इस्तीफा, छात्रों के अनशन के आगे झुकी सरकार
+      JJP Agenda 07: Sarkari Hospital Mein Acchi Treatment
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/bhqB7tnWM2A"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/bhqB7tnWM2A
+      JJP Agenda 08: Badhti Hui Mahangai Rokenge
       </a>
       </p>
       </div>
@@ -346,15 +346,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      Jantar-Mantar Protest से हैरान करने वाली तस्वीरें, बेटियां अब बाप को आने को ऐसे मज़बूर कर रही हैं
+      JJP Agenda 01: Kisanon Ko Facility Denge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      Jantar-Mantar Protest से हैरान करने वाली तस्वीरें, बेटियां अब बाप को आने को ऐसे मज़बूर कर रही हैं
+      JJP Agenda 01: Kisanon Ko Facility Denge
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/7CyQ_KV3Fxs"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/7CyQ_KV3Fxs
+      JJP Agenda 02: Contract Coal Khatm Karenge
       </a>
       </p>
       </div>
@@ -377,15 +377,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      Jantar-Mantar Protest: संसद के पास लाठीचार्ज और आंसू गैस के गोले दागे, Abhijeet Dipke ने अनशन तोड़ा
+      JJP Agenda: Sarkari Hospital Mein Acchi Treatment Laayenge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      Jantar-Mantar Protest: संसद के पास लाठीचार्ज और आंसू गैस के गोले दागे, Abhijeet Dipke ने अनशन तोड़ा
+      JJP Agenda: Sarkari Hospital Mein Acchi Treatment Laayenge
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/gW-SFiLGY_8?si=jCL6ze-xdMKVyMAA"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/gW-SFiLGY_8?si=jCL6ze-xdMKVyMAA
+      JJP Agenda 03: Garibon Ke Liye Rojgar Laayenge
       </a>
       </p>
       </div>
@@ -408,7 +408,7 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      ‘मैं मरने से पहले नहीं मरना चाहता’ जंतर मंतर से Prakash Raj से बातचीत और Ground report
+      JJP Agenda 04: Food Items Par Tax Kam Karenge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
       {"The Red Mike is a new movement in centrist Journalism. We tell your stories. Ground reports the way they should be. To say what’s right, and not what is just popular. Stories from India & around the world that impact and affect you. Your Mike. Your Story."}
@@ -416,7 +416,7 @@ export default function ViralVideos() {
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/UGH7kqjldw8"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/UGH7kqjldw8
+      JJP Agenda 05: Jahrile Fruit Bechne Nahi Denge
       </a>
       </p>
       </div>
@@ -454,15 +454,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      Jantar-Mantar पर क्या हो रहा है ? ऊपर वाला सब देख रहा! | Ajit Anjum | Sonam Wangchuk | Ground Report
+      JJP Agenda 06: Sarkari Schoolon Mein Acchi Shiksha
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      Jantar-Mantar पर क्या हो रहा है ? ऊपर वाला सब देख रहा! | Ajit Anjum | Sonam Wangchuk | Ground Report
+      JJP Agenda 06: Sarkari Schoolon Mein Acchi Shiksha
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://www.youtube.com/watch?v=0o61WKfcCEI"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://www.youtube.com/watch?v=0o61WKfcCEI
+      JJP Agenda 07: Sarkari Hospital Mein Acchi Treatment
       </a>
       </p>
       </div>
@@ -485,15 +485,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      Questions Ethanol-Blended Fuel ?
+      JJP Agenda 08: Badhti Hui Mahangai Rokenge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      Ethanol-blended fuel: Because your car clearly wanted a cocktail. #trending #viral
+      JJP Agenda 01: Kisanon Ko Facility Denge
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://www.youtube.com/shorts/yBZz984fkNo"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://www.youtube.com/shorts/yBZz984fkNo
+      JJP Agenda 02: Contract Coal Khatm Karenge
       </a>
       </p>
       </div>
@@ -516,15 +516,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      Lucknow Fire Viral Witness Claims Threats? Yogi Action?
+      JJP Agenda 03: Garibon Ke Liye Rojgar Laayenge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      Lucknow fire tragedy ne poore desh ko jhatka diya. Is haadse ke baad ek viral eyewitness video ne emergency response aur system par sawal khade kar diye. Viral video mein vyakti ne daawa kiya ki use sach bolne ke baad dhamkiyan mil rahi hain. Is beech Uttar Pradesh CM Yogi Adity
+      Illegal coal contracts aur opaque deals khatm — transparent policy for workers and land.
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://www.youtube.com/shorts/H5bpb5cvwaY"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://www.youtube.com/shorts/H5bpb5cvwaY
+      JJP Agenda 04: Food Items Par Tax Kam Karenge
       </a>
       </p>
       </div>
@@ -547,15 +547,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      Delhi के Jantar Mantar से पुलिस ने Sonam Wangchuk को जबरन उठाया, Sharad Sharma Report
+      JJP Agenda 05: Jahrile Fruit Bechne Nahi Denge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      शनिवार सुबह अचानक दिल्ली पुलिस ने जंतर मंतर पर 21 दिन से अनशन कर रहे सोनम वांगचुक को जबरन उठा लिया और बताया जा रहा है कि उनको अस्पताल में भर्ती कराया गया है। जिम्मेदार जनता पार्टी के प्रमुख अभिजीत दीपके ने भी बताया कि सुबह-सुबह पुलिस उस जगह पर भी आगे जहां पर वह रुके हुए थे और उन्हों
+      Local skill training, fair-wage work aur block-level rojgar desks for poor families.
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://www.youtube.com/watch?v=pqCItxbfNfY"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://www.youtube.com/watch?v=pqCItxbfNfY
+      JJP Agenda 06: Sarkari Schoolon Mein Acchi Shiksha
       </a>
       </p>
       </div>
@@ -578,15 +578,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      Government Calls Ethanol The 'Safe Fuel'. But The Horrifying Reality Of This Ethanol Factory.
+      JJP Agenda 07: Sarkari Hospital Mein Acchi Treatment
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      The official narrative says "safe." The people living nearby may have a different experience.
+      JJP Agenda 08: Badhti Hui Mahangai Rokenge
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://www.youtube.com/shorts/JQSr9GO9OJo"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://www.youtube.com/shorts/JQSr9GO9OJo
+      JJP Agenda 01: Kisanon Ko Facility Denge
       </a>
       </p>
       </div>
@@ -627,12 +627,12 @@ export default function ViralVideos() {
       Education Reality
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      #GenZPolitics #YouthPolitics #jimmedaarjanataparty #cjp #jimmedaarjanataparty #genzpolitics
+      #GenZPolitics #YouthPolitics #JimmedaarJanataParty #jjp #JimmedaarJanataParty #genzpolitics
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://www.youtube.com/shorts/fg2x8ynRuhE"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://www.youtube.com/shorts/fg2x8ynRuhE
+      JJP Agenda 02: Contract Coal Khatm Karenge
       </a>
       </p>
       </div>
@@ -663,7 +663,7 @@ export default function ViralVideos() {
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://www.youtube.com/shorts/kJPOyHJE-FM?feature=share"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://www.youtube.com/shorts/kJPOyHJE-FM?feature=share
+      JJP Agenda 03: Garibon Ke Liye Rojgar Laayenge
       </a>
       </p>
       </div>
@@ -686,15 +686,15 @@ export default function ViralVideos() {
       </div>
       <div className={"px-0.5"}>
       <h3 className={"font-display text-lg leading-tight text-paper"}>
-      I AM STILL ALIVE | CHALO SANASAD
+      JJP Agenda 04: Food Items Par Tax Kam Karenge
       </h3>
       <p className={"mt-1 text-paper/70 leading-relaxed text-sm"}>
-      Thanks for all your messages to break my Hunger Strike, but that wouldn't help the 20 students who committed suicide nor will that help protect the mountains of Ladakh or the rivers of India. If you really want to help then do a little more than messages from comfy couches, then
+      Atta, dal, oil, sabzi, doodh — basic food par tax burden ghatayenge.
       </p>
       <p className={"mt-2 text-xs text-paper/50"}>
       Source:
       <a href={"https://youtu.be/euPMOFtH_38"} target={"_blank"} rel={"noopener noreferrer nofollow"} className={"underline hover:text-paper/80"}>
-      https://youtu.be/euPMOFtH_38
+      JJP Agenda 05: Jahrile Fruit Bechne Nahi Denge
       </a>
       </p>
       </div>

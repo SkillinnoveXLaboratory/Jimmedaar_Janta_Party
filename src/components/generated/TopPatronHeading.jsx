@@ -8,13 +8,13 @@ export default function TopPatronHeading() {
       Official Patrons · 001
       </div>
       <h2 id={"top-patron-heading"} className={"font-display text-3xl sm:text-4xl md:text-5xl leading-[0.95]"}>
-      The swarm's 
+      Jimmedaar's 
       <em className={"text-gold-ink"}>
-      top patrons.
+      supporters.
       </em>
       </h2>
       <p className={"mt-3 text-sm sm:text-base text-ink/70 max-w-lg mx-auto"}>
-      Verified supporters keeping the servers on and the dev in chai. Amounts stay private — recognition is a thank-you, never an ad.
+      Supporters who stand with Jimmedaar agendas — farmers, jobs, schools, hospitals and fair prices.
       <a className={"underline underline-offset-2 text-ink font-semibold hover:text-gold-ink"} href={"/support-the-developer#support-dev"}>
       Buy a chai
       </a>
@@ -30,7 +30,7 @@ export default function TopPatronHeading() {
       </svg>
       <span className={"condensed text-[0.7rem] font-bold tracking-[0.2em] uppercase text-ink/70"}>
       Top 
-      5
+      8
        patron
       s
       </span>
@@ -571,7 +571,7 @@ export default function TopPatronHeading() {
       </span>
       </div>
       </div>
-      <aside className={"relative flex flex-col bg-paper-soft border-2 border-ink rounded-sm shadow-[6px_6px_0_0_rgba(26,17,8,0.85)]"} aria-labelledby={"all-patrons-heading"}>
+      <aside className={"relative flex flex-col bg-paper-soft border-2 border-ink rounded-sm shadow-[6px_6px_0_0_rgba(42,24,72,0.35)]"} aria-labelledby={"all-patrons-heading"}>
       <div className={"flex items-center justify-between condensed text-[0.6rem] sm:text-[0.65rem] tracking-wider uppercase text-ink/70 border-b border-ink/15 bg-paper px-4 py-2.5 rounded-t-sm"}>
       <span id={"all-patrons-heading"}>
       All verified patrons

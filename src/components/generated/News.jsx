@@ -26,15 +26,15 @@ export default function News() {
       <div className={"overflow-hidden"} data-slot={"carousel-content"}>
       <div className={"flex -ml-3 sm:-ml-4 items-stretch"}>
       <div role={"group"} aria-roledescription={"slide"} data-slot={"carousel-item"} className={"min-w-0 shrink-0 grow-0 pl-3 sm:pl-4 basis-full sm:basis-1/2 lg:basis-1/3 h-auto flex"}>
-      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/cjp-founder-abhijeet-dipke-received-bjp-join-or-face-consequences-threat-claims"}>
+      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/jjp-agenda-jjp-agenda-received-bjp-join-or-face-consequences-threat-claims"}>
       <div className={"condensed text-[0.65rem] tracking-wider uppercase mb-4 text-ink/60"}>
       1 Aug 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      When the Party Door Knocks, It Usually Wants Your Soul
+      Kisanon Ko Facility: Jimmedaar Ka Pehla Wada
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      A mother’s account of threats aimed at the JJP founder reminds us that in Indian politics, the only thing worse than being ignored is being noticed.
+      Jimmedaar Janata Party farmers ke liye MSP, irrigation, cold storage aur easy credit ensure karegi. Kisan pehle — har district plan mein.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -60,15 +60,15 @@ export default function News() {
       </div>
       </div>
       <div role={"group"} aria-roledescription={"slide"} data-slot={"carousel-item"} className={"min-w-0 shrink-0 grow-0 pl-3 sm:pl-4 basis-full sm:basis-1/2 lg:basis-1/3 h-auto flex"}>
-      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/cjp-protest-why-its-critics-miss-the-bigger-picture-frontline-magazine"}>
+      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/jjp-protest-why-its-critics-miss-the-bigger-picture-frontline-magazine"}>
       <div className={"condensed text-[0.65rem] tracking-wider uppercase mb-4 text-ink/60"}>
       1 Aug 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Jimmedaar Janata Party: Why Critics Fear the Floor
+      Contract Coal Khatm: Transparent Policy
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      Critics are busy counting legs while we are busy building a movement. Here is why the JJP protest is more than just a nuisance.
+      Illegal coal contracts aur opaque deals khatm. Worker safety aur clean policy — Jimmedaar Janata Party ka dusra agenda.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -79,15 +79,15 @@ export default function News() {
       </a>
       </div>
       <div role={"group"} aria-roledescription={"slide"} data-slot={"carousel-item"} className={"min-w-0 shrink-0 grow-0 pl-3 sm:pl-4 basis-full sm:basis-1/2 lg:basis-1/3 h-auto flex"}>
-      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/no-legal-action-against-cjp-protesters-in-delhi-arrests-to-be-reviewed-ndtv"}>
+      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/jjp-agenda-protesters-in-delhi-arrests-to-be-reviewed-ndtv"}>
       <div className={"condensed text-[0.65rem] tracking-wider uppercase mb-4 text-ink/60"}>
       31 Jul 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Delhi Protesters Get A Reprieve: The System Blinks First
+      Garibon Ke Liye Rojgar: Real Jobs
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      Delhi authorities have signaled a retreat on legal action against JJP protesters, with a formal review of recent arrests now underway.
+      Local skill training, fair-wage work, aur block-level rojgar desks — gareeb parivaar ke liye asli mauka.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -98,15 +98,15 @@ export default function News() {
       </a>
       </div>
       <div role={"group"} aria-roledescription={"slide"} data-slot={"carousel-item"} className={"min-w-0 shrink-0 grow-0 pl-3 sm:pl-4 basis-full sm:basis-1/2 lg:basis-1/3 h-auto flex"}>
-      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/was-abhijeet-dipke-pressured-by-bjp-minister-hits-back-at-cjp-founders-claims-th"}>
+      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/jjp-agenda-dipke-pressured-by-bjp-minister-hits-back-at-jjp-agendas-claims-th"}>
       <div className={"condensed text-[0.65rem] tracking-wider uppercase mb-4 text-ink/60"}>
       31 Jul 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Abhijeet Dipke and the Ministerial Gaslight Special
+      Food Items Par Tax Kam
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      When a minister hits back at claims, the public gets a masterclass in deflection. Here is our take on the latest political theater.
+      Atta, dal, oil, sabzi, doodh — basic food par tax burden ghatayenge taaki kitchen ko rahat mile.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -117,15 +117,15 @@ export default function News() {
       </a>
       </div>
       <div role={"group"} aria-roledescription={"slide"} data-slot={"carousel-item"} className={"min-w-0 shrink-0 grow-0 pl-3 sm:pl-4 basis-full sm:basis-1/2 lg:basis-1/3 h-auto flex"}>
-      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/cjp-founder-abhijeet-dipke-alleges-bjp-threatened-him-to-join-party-attacks-prah"}>
+      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/jjp-agenda-jjp-agenda-alleges-bjp-threatened-him-to-join-party-attacks-prah"}>
       <div className={"condensed text-[0.65rem] tracking-wider uppercase mb-4 text-ink/60"}>
       31 Jul 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Abhijeet Dipke and the BJP's Very Polite Invitation
+      Jahrile Fruit Bechne Nahi Denge
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      When the BJP comes knocking with an offer you cannot refuse, the standard response is to go public. Abhijeet Dipke’s claims highlight the absurdity of modern political recruitment.
+      Toxic, chemically poisoned fruit market mein nahi bikenge. Safe food ek haq hai — Jimmedaar Janata Party ka paanchwa agenda.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -136,15 +136,15 @@ export default function News() {
       </a>
       </div>
       <div role={"group"} aria-roledescription={"slide"} data-slot={"carousel-item"} className={"min-w-0 shrink-0 grow-0 pl-3 sm:pl-4 basis-full sm:basis-1/2 lg:basis-1/3 h-auto flex"}>
-      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/students-are-not-terrorists-cjp-founder-abhijeet-dipke-asks-govt-to-stop-targeti"}>
+      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/students-are-not-terrorists-jjp-agenda-jjp-agenda-asks-govt-to-stop-targeti"}>
       <div className={"condensed text-[0.65rem] tracking-wider uppercase mb-4 text-ink/60"}>
       30 Jul 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Students Are Not Terrorists: The New Syllabus of State Paranoia
+      Jahrile Fruit Bechne Nahi Denge: The New Syllabus of State Paranoia
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      When the state runs out of arguments, it reaches for the UAPA handbook. Abhijeet Dipke reminds us that students are not the enemy.
+      Jahrile fruit aur adulteration par strict check — families ki sehat pehle.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -170,15 +170,15 @@ export default function News() {
       </div>
       </div>
       <div role={"group"} aria-roledescription={"slide"} data-slot={"carousel-item"} className={"min-w-0 shrink-0 grow-0 pl-3 sm:pl-4 basis-full sm:basis-1/2 lg:basis-1/3 h-auto flex"}>
-      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/abhijeet-dipke-warns-govt-of-massive-protest-if-witch-hunting-of-students-doesnt"}>
+      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/jjp-agenda-warns-govt-of-massive-protest-if-witch-hunting-of-students-doesnt"}>
       <div className={"condensed text-[0.65rem] tracking-wider uppercase mb-4 text-ink/60"}>
       30 Jul 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Abhijeet Dipke: The Student Witch-Hunt Has An Expiry Date
+      Sarkari Schoolon Mein Acchi Shiksha
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      Abhijeet Dipke fires a warning shot at the establishment, demanding an end to the systemic harassment of students across the country.
+      Trained teachers, books, toilets, digital tools — sarkari school har bachche ke liye barabar mauka.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -189,12 +189,12 @@ export default function News() {
       </a>
       </div>
       <div role={"group"} aria-roledescription={"slide"} data-slot={"carousel-item"} className={"min-w-0 shrink-0 grow-0 pl-3 sm:pl-4 basis-full sm:basis-1/2 lg:basis-1/3 h-auto flex"}>
-      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/become-an-influencer-youre-doing-well-cjps-abhijeet-dipkes-swipe-at-pm-modi-indi"}>
+      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/jjp-agenda-youre-doing-well-cjps-jjp-agendas-swipe-at-pm-modi-indi"}>
       <div className={"condensed text-[0.65rem] tracking-wider uppercase mb-4 text-ink/60"}>
       30 Jul 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Governance as Content: Why the PM is Just Another Influencer
+      Sarkari Hospital Mein Acchi Treatment: Why the PM is Just Another Influencer
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
       When the Prime Minister treats the nation like a vlog, perhaps it is time we all start treating the state like a brand deal.
@@ -208,12 +208,12 @@ export default function News() {
       </a>
       </div>
       <div role={"group"} aria-roledescription={"slide"} data-slot={"carousel-item"} className={"min-w-0 shrink-0 grow-0 pl-3 sm:pl-4 basis-full sm:basis-1/2 lg:basis-1/3 h-auto flex"}>
-      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/after-bihar-assam-drops-cases-assures-no-action-against-cjp-protesters"}>
+      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/after-bihar-assam-drops-cases-assures-no-action-against-jjp-supporters"}>
       <div className={"condensed text-[0.65rem] tracking-wider uppercase mb-4 text-ink/60"}>
       29 Jul 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Assam Drops NEET Protester Cases: A Rare Moment of Sanity
+      Food Items Par Tax Kam — Kitchen Relief: A Rare Moment of Sanity
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
       After Bihar, Assam follows suit by dropping charges against students. A small win for those tired of being treated like criminals for wanting a fair exam.
@@ -227,15 +227,15 @@ export default function News() {
       </a>
       </div>
       <div role={"group"} aria-roledescription={"slide"} data-slot={"carousel-item"} className={"min-w-0 shrink-0 grow-0 pl-3 sm:pl-4 basis-full sm:basis-1/2 lg:basis-1/3 h-auto flex"}>
-      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/just-the-beginning-long-way-to-go-abhijeet-dipkes-morning-video-post-ndtv"}>
+      <a className={"flex flex-col h-full w-full border p-6 sm:p-8 transition group min-h-[22rem] sm:min-h-[24rem] border-ink/80 bg-paper-soft hover:border-gold"} href={"/news/jjp-agenda-long-way-to-go-jjp-agendas-morning-video-post-ndtv"}>
       <div className={"condensed text-[0.65rem] tracking-wider uppercase mb-4 text-ink/60"}>
       27 Jul 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Abhijeet Dipke and the Art of Not Getting Comfortable
+      Badhti Hui Mahangai Rokna
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      Abhijeet Dipke’s recent morning video post serves as a sobering reminder that while visibility is nice, systemic change requires more than soundbites.
+      Fuel, food, rent aur daily essentials par control — Jimmedaar Janata Party mahangai rokegi.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 

@@ -31,10 +31,10 @@ export default function Articles() {
       1 Aug 2026 · 13 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      India Exam Paper Leaks: A 5-Year Crisis Analysis
+      Sarkari Schoolon Mein Acchi Shiksha
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      Between 2021 and 2026, India's public examination system faced an unprecedented crisis. Explore our comprehensive analysis of the paper leak epidemic.
+      Trained teachers, books, toilets, digital tools — har bachche ko barabar mauka, bina private school ki majboori.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -65,10 +65,10 @@ export default function Articles() {
       10 Jul 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Paper Leaks in India: How Exam Corruption Undermines Education
+      Sarkari Hospital Mein Acchi Treatment
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      Every paper leak steals more than an exam—it steals years of preparation, public trust, and equal opportunity. India needs systemic reform, not temporary fixes.
+      Doctors duty par, medicines stock mein, saaf wards — sarkari hospital healing ka jagah ho.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -84,10 +84,10 @@ export default function Articles() {
       10 Jul 2026 · 6 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      {"Ethanol Fuel in India: Benefits, Risks & Impact on Existing Vehicles"}
+      {"Badhti Hui Mahangai Rokna"}
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      India's transition to E20 petrol promises lower oil imports and cleaner emissions, but existing vehicle compatibility, fuel efficiency, agricultural impacts, and long-term sustainability remain subjects of intense debate.
+      Fuel, food, rent aur daily essentials par control — hoarding ke against action aur common family ke liye relief.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -103,10 +103,10 @@ export default function Articles() {
       14 Jun 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      The Growing Challenge of Division and Misinformation
+      Kisanon Ko Facility: Village Markets Strong
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      A strong society depends on truth, understanding, and mutual respect.
+      Farmers deserve fair MSP, irrigation, cold storage and easy credit — Jimmedaar agenda 01.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -122,10 +122,10 @@ export default function Articles() {
       14 Jun 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      The Digital Divide Behind India's Internet Revolution
+      Contract Coal Khatm: Clean Transparent Policy
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      Digital inclusion is essential for equal opportunity in the modern economy.
+      Illegal coal contracts and opaque deals must end. Transparent policy for workers and land.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -141,10 +141,10 @@ export default function Articles() {
       14 Jun 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      India's Cities Are Growing Faster Than They Can Cope
+      Garibon Ke Liye Rojgar: Block-Level Jobs
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      Cities drive growth, but unmanaged growth creates new problems.
+      Local skill training, fair-wage work and block-level rojgar desks for poor families.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -175,10 +175,10 @@ export default function Articles() {
       14 Jun 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Why India Needs Political and Electoral Reform
+      Jahrile Fruit Bechne Nahi Denge
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      Democracy works best when citizens trust the system.
+      Toxic fruit and adulteration endanger families. Safe food is a Jimmedaar agenda.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -194,10 +194,10 @@ export default function Articles() {
       14 Jun 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Justice Delayed Is Justice Denied in India
+      Sarkari School + Hospital: Equal Care
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      A strong democracy requires a fast and fair justice system.
+      Quality teachers, books, medicines and clean wards in every government school and hospital.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -213,10 +213,10 @@ export default function Articles() {
       14 Jun 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Building India Beyond Highways and Headlines
+      Food Tax Kam: Relief on the Thali
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      Development must reach every district, town, and village.
+      Cut tax on atta, dal, oil, sabzi and doodh so every kitchen feels relief.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 
@@ -232,10 +232,10 @@ export default function Articles() {
       14 Jun 2026 · 3 min read
       </div>
       <h3 className={"font-display text-xl sm:text-2xl leading-tight mb-3 transition group-hover:text-gold-ink"}>
-      Women's Safety Is India's Development Issue
+      Badhti Mahangai Rokna: Price Control
       </h3>
       <p className={"text-sm leading-relaxed flex-1 text-ink/70"}>
-      A nation cannot progress when half its population faces barriers to opportunity.
+      Control fuel, food, rent and daily essentials — stop rising mahangai for common families.
       </p>
       <div className={"mt-6 condensed text-xs font-semibold tracking-wider inline-flex items-center gap-2 transition text-ink group-hover:text-gold-ink"}>
       READ 

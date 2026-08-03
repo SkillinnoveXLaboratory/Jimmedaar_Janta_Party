@@ -9,7 +9,7 @@ export default function MainIntro() {
       ✦
       </span>
       <span>
-      Party Launch · Volume 1, Edition 1
+      Jimmedaar Launch · Eight Agendas
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -17,7 +17,7 @@ export default function MainIntro() {
       ✦
       </span>
       <span>
-      Filed under: General Disgruntlement
+      Filed under: Eight Agendas
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -25,7 +25,7 @@ export default function MainIntro() {
       ✦
       </span>
       <span>
-      Sponsored by no one. Funded by the swarm.
+      Sponsored by no one. Funded by the people.
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -33,7 +33,7 @@ export default function MainIntro() {
       ✦
       </span>
       <span>
-      HQ: Wherever the wifi works
+      HQ: With the people
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -41,7 +41,7 @@ export default function MainIntro() {
       ✦
       </span>
       <span>
-      Now accepting rants, retweets, and resentment
+      Now accepting support for farmers, jobs & fair prices
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -49,7 +49,7 @@ export default function MainIntro() {
       ✦
       </span>
       <span>
-      Party Launch · Volume 1, Edition 1
+      Jimmedaar Launch · Eight Agendas
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -57,7 +57,7 @@ export default function MainIntro() {
       ✦
       </span>
       <span>
-      Filed under: General Disgruntlement
+      Filed under: Eight Agendas
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -65,7 +65,7 @@ export default function MainIntro() {
       ✦
       </span>
       <span>
-      Sponsored by no one. Funded by the swarm.
+      Sponsored by no one. Funded by the people.
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -73,7 +73,7 @@ export default function MainIntro() {
       ✦
       </span>
       <span>
-      HQ: Wherever the wifi works
+      HQ: With the people
       </span>
       </span>
       <span className={"condensed text-xs sm:text-sm inline-flex items-center gap-4 px-6"}>
@@ -81,7 +81,7 @@ export default function MainIntro() {
       ✦
       </span>
       <span>
-      Now accepting rants, retweets, and resentment
+      Now accepting support for farmers, jobs & fair prices
       </span>
       </span>
       </div>
@@ -99,23 +99,23 @@ export default function MainIntro() {
       </span>
       </span>
       <p className={"min-w-0 flex-1 text-[0.74rem] font-medium leading-snug text-ink/90 sm:text-[0.78rem]"}>
-      Independent satirical commentary website — satire and civic commentary only; not the official Jimmedaar Janata Party and not affiliated with the movement.
+      Jimmedaar Janata Party — aath agendas: kisan, coal, rojgar, food tax, safe fruit, schools, hospitals, mahangai.
       </p>
       </div>
       <ul className={"-mx-1 flex gap-1.5 overflow-x-auto px-1 pb-0.5 [-ms-overflow-style:none] [scrollbar-width:none] lg:flex-wrap lg:overflow-visible [&::-webkit-scrollbar]:hidden"} aria-label={"Disclaimer highlights"}>
       <li className={"shrink-0 lg:shrink"}>
       <span className={"condensed inline-block whitespace-nowrap rounded-sm border border-ink/10 bg-paper px-2 py-1 text-[0.55rem] font-semibold tracking-[0.1em] text-ink/55 uppercase"}>
-      Independent satire
+      Eight agendas
       </span>
       </li>
       <li className={"shrink-0 lg:shrink"}>
       <span className={"condensed inline-block whitespace-nowrap rounded-sm border border-ink/10 bg-paper px-2 py-1 text-[0.55rem] font-semibold tracking-[0.1em] text-ink/55 uppercase"}>
-      Not a registered party
+      People first
       </span>
       </li>
       <li className={"shrink-0 lg:shrink"}>
       <span className={"condensed inline-block whitespace-nowrap rounded-sm border border-ink/10 bg-paper px-2 py-1 text-[0.55rem] font-semibold tracking-[0.1em] text-ink/55 uppercase"}>
-      Symbolic membership only
+      Join the mission
       </span>
       </li>
       </ul>
@@ -128,13 +128,13 @@ export default function MainIntro() {
       <path d={"m6 9 6 6 6-6"}></path>
       </svg>
       </summary>
-      <p className={"mt-2 w-full rounded-sm border border-ink/15 bg-paper p-3 text-left text-[0.74rem] leading-relaxed text-ink/75 shadow-[4px_4px_0_0_rgba(201,162,39,0.35)] sm:absolute sm:right-0 sm:z-20 sm:mt-2 sm:w-[min(calc(100vw-2rem),28rem)] sm:text-[0.76rem] lg:shadow-[6px_6px_0_0_rgba(201,162,39,0.35)]"}>
-      Independent satirical commentary website — satire and civic commentary only; not the official Jimmedaar Janata Party and not affiliated with the movement. Not endorsed by or connected to the movement or its founder. Not a registered political party; does not field candidates or accept election funds. Membership and cards on this site are symbolic website participation only and do not enrol you in the official movement. Operated in compliance with applicable Indian law. Official movement: cockroachjantaparty.org.
+      <p className={"mt-2 w-full rounded-sm border border-ink/15 bg-paper p-3 text-left text-[0.74rem] leading-relaxed text-ink/75 shadow-[4px_4px_0_0_rgba(124,58,237,0.35)] sm:absolute sm:right-0 sm:z-20 sm:mt-2 sm:w-[min(calc(100vw-2rem),28rem)] sm:text-[0.76rem] lg:shadow-[6px_6px_0_0_rgba(124,58,237,0.35)]"}>
+      Jimmedaar Janata Party — aath agendas: kisan, coal, rojgar, food tax, safe fruit, schools, hospitals, mahangai. Jimmedaar Janata Party isi agenda per kaam karega. Official site: jimmedaarjanataparty.org.
       </p>
       </details>
       <div className={"grid grid-cols-2 gap-2 sm:flex sm:items-center sm:gap-3"}>
-      <a href={"https://cockroachjantaparty.org"} rel={"noopener noreferrer nofollow"} className={"condensed inline-flex min-h-10 w-full items-center justify-center gap-1 rounded-sm border border-ink/12 bg-paper px-2 text-center text-[0.58rem] font-bold leading-tight tracking-[0.1em] text-balance text-gold-ink uppercase transition hover:border-ink/25 hover:bg-paper-soft hover:text-ink sm:min-h-0 sm:w-auto sm:border-0 sm:bg-transparent sm:px-0 sm:text-left sm:text-[0.62rem] sm:leading-normal sm:tracking-[0.12em] lg:text-[0.66rem]"}>
-      Official movement
+      <a href={"https://jimmedaarjanataparty.org"} rel={"noopener noreferrer nofollow"} className={"condensed inline-flex min-h-10 w-full items-center justify-center gap-1 rounded-sm border border-ink/12 bg-paper px-2 text-center text-[0.58rem] font-bold leading-tight tracking-[0.1em] text-balance text-gold-ink uppercase transition hover:border-ink/25 hover:bg-paper-soft hover:text-ink sm:min-h-0 sm:w-auto sm:border-0 sm:bg-transparent sm:px-0 sm:text-left sm:text-[0.62rem] sm:leading-normal sm:tracking-[0.12em] lg:text-[0.66rem]"}>
+      Official site
       <span aria-hidden={"true"}>
       ↗
       </span>
@@ -154,7 +154,7 @@ export default function MainIntro() {
       <div aria-hidden={"true"} className={"absolute left-0 top-0 bottom-0 w-12 z-10 pointer-events-none"} style={{background: "linear-gradient(to right, var(--paper-soft, #ECE0C6), transparent)"}}></div>
       <div aria-hidden={"true"} className={"absolute right-0 top-0 bottom-0 w-12 z-10 pointer-events-none"} style={{background: "linear-gradient(to left, var(--paper-soft, #ECE0C6), transparent)"}}></div>
       <div className={"absolute left-4 top-1/2 -translate-y-1/2 z-20 hidden sm:flex items-center gap-2 bg-ink text-paper px-2.5 py-1 rounded-sm shadow-md"}>
-      <span className={"w-1.5 h-1.5 rounded-full bg-gold"} style={{boxShadow: "0 0 6px rgba(201,162,39,0.9)"}}></span>
+      <span className={"w-1.5 h-1.5 rounded-full bg-gold"} style={{boxShadow: "0 0 6px rgba(124,58,237,0.9)"}}></span>
       <span className={"text-[0.6rem] font-bold tracking-[0.18em] uppercase"} style={{fontFamily: "var(--font-condensed)"}}>
       Live · Joining now
       </span>
@@ -187,11 +187,11 @@ export default function MainIntro() {
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39576 · Subham Kumar Mishra · Balasore, OD"}>
       <div className={"relative w-9 h-9 rounded-full shrink-0 flex items-center justify-center shadow-[0_2px_6px_rgba(0,0,0,0.18)]"} style={{background: "#1A1108", border: "1.5px solid #F4EBD7"}} aria-hidden={"true"}>
       <svg viewBox={"0 0 36 36"} className={"absolute inset-0 w-full h-full"}>
-      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"0.6"}></line>
+      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"0.6"}></line>
       </svg>
       <span className={"relative font-condensed font-bold tracking-wide text-[0.7rem] z-10"} style={{color: "#F4EBD7", fontFamily: "var(--font-condensed)"}}>
       SM
@@ -233,11 +233,11 @@ export default function MainIntro() {
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39574 · AADITYA KOLHATKAR · GONDIA, MH"}>
       <div className={"relative w-9 h-9 rounded-full shrink-0 flex items-center justify-center shadow-[0_2px_6px_rgba(0,0,0,0.18)]"} style={{background: "#1A1108", border: "1.5px solid #F4EBD7"}} aria-hidden={"true"}>
       <svg viewBox={"0 0 36 36"} className={"absolute inset-0 w-full h-full"}>
-      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"0.6"}></line>
+      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"0.6"}></line>
       </svg>
       <span className={"relative font-condensed font-bold tracking-wide text-[0.7rem] z-10"} style={{color: "#F4EBD7", fontFamily: "var(--font-condensed)"}}>
       AK
@@ -367,11 +367,11 @@ export default function MainIntro() {
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39566 · Anirban Dasgupta · Kolkata, WB"}>
       <div className={"relative w-9 h-9 rounded-full shrink-0 flex items-center justify-center shadow-[0_2px_6px_rgba(0,0,0,0.18)]"} style={{background: "#1A1108", border: "1.5px solid #F4EBD7"}} aria-hidden={"true"}>
       <svg viewBox={"0 0 36 36"} className={"absolute inset-0 w-full h-full"}>
-      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"0.6"}></line>
+      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"0.6"}></line>
       </svg>
       <span className={"relative font-condensed font-bold tracking-wide text-[0.7rem] z-10"} style={{color: "#F4EBD7", fontFamily: "var(--font-condensed)"}}>
       AD
@@ -501,11 +501,11 @@ export default function MainIntro() {
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39556 · Azfar Jawed · New Delhi, DL"}>
       <div className={"relative w-9 h-9 rounded-full shrink-0 flex items-center justify-center shadow-[0_2px_6px_rgba(0,0,0,0.18)]"} style={{background: "#1A1108", border: "1.5px solid #F4EBD7"}} aria-hidden={"true"}>
       <svg viewBox={"0 0 36 36"} className={"absolute inset-0 w-full h-full"}>
-      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"0.6"}></line>
+      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"0.6"}></line>
       </svg>
       <span className={"relative font-condensed font-bold tracking-wide text-[0.7rem] z-10"} style={{color: "#F4EBD7", fontFamily: "var(--font-condensed)"}}>
       AJ
@@ -646,11 +646,11 @@ export default function MainIntro() {
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39575 · Atharv Bidaye · Mumbai, MH"}>
       <div className={"relative w-9 h-9 rounded-full shrink-0 flex items-center justify-center shadow-[0_2px_6px_rgba(0,0,0,0.18)]"} style={{background: "#1A1108", border: "1.5px solid #F4EBD7"}} aria-hidden={"true"}>
       <svg viewBox={"0 0 36 36"} className={"absolute inset-0 w-full h-full"}>
-      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"0.6"}></line>
+      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"0.6"}></line>
       </svg>
       <span className={"relative font-condensed font-bold tracking-wide text-[0.7rem] z-10"} style={{color: "#F4EBD7", fontFamily: "var(--font-condensed)"}}>
       AB
@@ -692,11 +692,11 @@ export default function MainIntro() {
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39573 · Aarushi Kalasva · Ahmedabad, GJ"}>
       <div className={"relative w-9 h-9 rounded-full shrink-0 flex items-center justify-center shadow-[0_2px_6px_rgba(0,0,0,0.18)]"} style={{background: "#1A1108", border: "1.5px solid #F4EBD7"}} aria-hidden={"true"}>
       <svg viewBox={"0 0 36 36"} className={"absolute inset-0 w-full h-full"}>
-      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"0.6"}></line>
+      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"0.6"}></line>
       </svg>
       <span className={"relative font-condensed font-bold tracking-wide text-[0.7rem] z-10"} style={{color: "#F4EBD7", fontFamily: "var(--font-condensed)"}}>
       AK
@@ -754,11 +754,11 @@ export default function MainIntro() {
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39569 · Subhra Orhaw · Kolkata, WB"}>
       <div className={"relative w-9 h-9 rounded-full shrink-0 flex items-center justify-center shadow-[0_2px_6px_rgba(0,0,0,0.18)]"} style={{background: "#1A1108", border: "1.5px solid #F4EBD7"}} aria-hidden={"true"}>
       <svg viewBox={"0 0 36 36"} className={"absolute inset-0 w-full h-full"}>
-      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"0.6"}></line>
+      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"0.6"}></line>
       </svg>
       <span className={"relative font-condensed font-bold tracking-wide text-[0.7rem] z-10"} style={{color: "#F4EBD7", fontFamily: "var(--font-condensed)"}}>
       SO
@@ -826,11 +826,11 @@ export default function MainIntro() {
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39564 · Saud Shakeel Mamtule · Thane, MH"}>
       <div className={"relative w-9 h-9 rounded-full shrink-0 flex items-center justify-center shadow-[0_2px_6px_rgba(0,0,0,0.18)]"} style={{background: "#1A1108", border: "1.5px solid #F4EBD7"}} aria-hidden={"true"}>
       <svg viewBox={"0 0 36 36"} className={"absolute inset-0 w-full h-full"}>
-      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"0.6"}></line>
+      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"0.6"}></line>
       </svg>
       <span className={"relative font-condensed font-bold tracking-wide text-[0.7rem] z-10"} style={{color: "#F4EBD7", fontFamily: "var(--font-condensed)"}}>
       SM
@@ -888,11 +888,11 @@ export default function MainIntro() {
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39559 · Saba Chand Sayyed · Mumbai, MH"}>
       <div className={"relative w-9 h-9 rounded-full shrink-0 flex items-center justify-center shadow-[0_2px_6px_rgba(0,0,0,0.18)]"} style={{background: "#1A1108", border: "1.5px solid #F4EBD7"}} aria-hidden={"true"}>
       <svg viewBox={"0 0 36 36"} className={"absolute inset-0 w-full h-full"}>
-      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"0.6"}></line>
+      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"0.6"}></line>
       </svg>
       <span className={"relative font-condensed font-bold tracking-wide text-[0.7rem] z-10"} style={{color: "#F4EBD7", fontFamily: "var(--font-condensed)"}}>
       SS
@@ -1012,11 +1012,11 @@ export default function MainIntro() {
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39551 · Dr. Latika · Jodhpur, RJ"}>
       <div className={"relative w-9 h-9 rounded-full shrink-0 flex items-center justify-center shadow-[0_2px_6px_rgba(0,0,0,0.18)]"} style={{background: "#1A1108", border: "1.5px solid #F4EBD7"}} aria-hidden={"true"}>
       <svg viewBox={"0 0 36 36"} className={"absolute inset-0 w-full h-full"}>
-      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(201,162,39,0.30)"}></ellipse>
-      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
-      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(201,162,39,0.30)"} strokeWidth={"0.6"}></line>
+      <ellipse cx={"18"} cy={"22"} rx={"9"} ry={"11"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <ellipse cx={"18"} cy={"11"} rx={"5.5"} ry={"4.2"} fill={"rgba(124,58,237,0.30)"}></ellipse>
+      <path d={"M14,8 Q11,4 9,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <path d={"M22,8 Q25,4 27,1.5"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"1.2"} fill={"none"} strokeLinecap={"round"}></path>
+      <line x1={"18"} y1={"14"} x2={"18"} y2={"31"} stroke={"rgba(124,58,237,0.30)"} strokeWidth={"0.6"}></line>
       </svg>
       <span className={"relative font-condensed font-bold tracking-wide text-[0.7rem] z-10"} style={{color: "#F4EBD7", fontFamily: "var(--font-condensed)"}}>
       DL

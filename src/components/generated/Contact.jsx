@@ -5,16 +5,16 @@ export default function Contact() {
       <div className={"max-w-6xl mx-auto px-4 sm:px-6 grid md:grid-cols-[1fr_1fr] gap-12 lg:gap-20"}>
       <div>
       <div className={"eyebrow text-ink/65 mb-5"}>
-      Get in touch
+      Sampark
       </div>
       <h2 className={"text-5xl sm:text-6xl md:text-7xl mb-6"}>
-      Connect 
+      Sampark 
       <em className={"text-gold-ink"}>
-      with us.
+      karein.
       </em>
       </h2>
       <p className={"text-base sm:text-lg text-ink/75 mb-10 max-w-md"}>
-      Website bugs, account help, or grievances about this site? Email the website inbox. Movement membership, volunteering, and party matters go to the official Jimmedaar Janata Party — not here.
+      Questions on agendas — farmers, jobs, schools, hospitals, mahangai? Email us. Jimmedaar Janata Party isi agenda per kaam karega.
       </p>
       <ul className={"space-y-6 border-t border-rule"}>
       <li className={"grid grid-cols-[7.5rem_1fr] gap-4 pt-6 border-b border-rule pb-6"}>
@@ -26,7 +26,7 @@ export default function Contact() {
       contact@localhost
       </a>
       <p className={"mt-1.5 text-sm text-ink/65 leading-snug"}>
-      Website queries only — accounts, bugs, memes about this site, and Indian-law grievances for this intermediary.
+      Agenda queries — farmers, jobs, schools, hospitals, mahangai — email the website inbox.
       </p>
       </div>
       </li>
@@ -35,13 +35,13 @@ export default function Contact() {
       Official JJP
       </div>
       <div>
-      <a href={"mailto:contact@cockroachjantaparty.org"} className={"font-medium hover:text-gold-ink transition break-all"}>
-      contact@cockroachjantaparty.org
+      <a href={"mailto:contact@jimmedaarjanataparty.org"} className={"font-medium hover:text-gold-ink transition break-all"}>
+      contact@jimmedaarjanataparty.org
       </a>
       <p className={"mt-1.5 text-sm text-ink/65 leading-snug"}>
-      Official movement / party matters — not this website.
-      <a href={"https://cockroachjantaparty.org"} target={"_blank"} rel={"noopener noreferrer"} className={"underline hover:text-gold-ink transition"}>
-      cockroachjantaparty.org
+      Official site / party matters — not this website.
+      <a href={"https://jimmedaarjanataparty.org"} target={"_blank"} rel={"noopener noreferrer"} className={"underline hover:text-gold-ink transition"}>
+      jimmedaarjanataparty.org
       </a>
       </p>
       </div>
@@ -59,12 +59,12 @@ export default function Contact() {
       Headquarters
       </div>
       <div className={"font-medium"}>
-      Wherever the wifi works.
+      Wherever the people need us.
       </div>
       </li>
       </ul>
       </div>
-      <div className={"bg-paper-soft border-2 border-ink rounded-sm p-8 sm:p-10 flex flex-col justify-center items-center text-center shadow-[6px_6px_0_0_rgba(26,17,8,0.85)]"}>
+      <div className={"bg-paper-soft border-2 border-ink rounded-sm p-8 sm:p-10 flex flex-col justify-center items-center text-center shadow-[6px_6px_0_0_rgba(42,24,72,0.35)]"}>
       <div className={"eyebrow text-gold-ink mb-4"}>
       Drop a line
       </div>
@@ -75,8 +75,8 @@ export default function Contact() {
       </em>
       </p>
       <p className={"text-sm text-ink/70 max-w-xs mb-8 leading-relaxed"}>
-      No forms. No captchas. Website questions only — for the official movement, write to
-      contact@cockroachjantaparty.org
+      No forms. No captchas. Agenda questions welcome — for official party matters, write to
+      contact@jimmedaarjanataparty.org
       .
       </p>
       <a href={"mailto:contact@localhost?subject=Website%20query"} className={"condensed text-sm font-semibold tracking-wider bg-ink text-paper px-8 py-4 rounded-sm hover:bg-gold hover:text-ink transition inline-flex items-center gap-2"}>
