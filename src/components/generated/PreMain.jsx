@@ -31,7 +31,6 @@ export default function PreMain() {
       JJP Chat
       </span>
       </button>
-      <link rel={"preload"} as={"image"} imagesrcset={"/_next/image?url=%2Fhero-main.jpg&w=32&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 32w, /_next/image?url=%2Fhero-main.jpg&w=48&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 48w, /_next/image?url=%2Fhero-main.jpg&w=64&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 64w, /_next/image?url=%2Fhero-main.jpg&w=96&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 96w, /_next/image?url=%2Fhero-main.jpg&w=128&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 128w, /_next/image?url=%2Fhero-main.jpg&w=256&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 256w, /_next/image?url=%2Fhero-main.jpg&w=384&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 384w, /_next/image?url=%2Fhero-main.jpg&w=640&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 640w, /_next/image?url=%2Fhero-main.jpg&w=750&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 750w, /_next/image?url=%2Fhero-main.jpg&w=828&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 828w, /_next/image?url=%2Fhero-main.jpg&w=1080&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 1080w, /_next/image?url=%2Fhero-main.jpg&w=1200&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 1200w, /_next/image?url=%2Fhero-main.jpg&w=1920&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 1920w, /_next/image?url=%2Fhero-main.jpg&w=2048&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 2048w, /_next/image?url=%2Fhero-main.jpg&w=3840&q=75&dpl=dpl_F2kEqVggSuhiuEHGMXxU799tMezK 3840w"} imagesizes={"(max-width: 640px) 140px, (max-width: 768px) 180px, 210px"} />
     </>
   );
 }

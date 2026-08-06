@@ -6,32 +6,14 @@ export default function Hero() {
       <div className={"absolute inset-0"} style={{background: "radial-gradient(ellipse at 50% 30%, #4c1d95 0%, #2a1848 55%, #1e1038 100%)"}}></div>
       <div className={"absolute inset-x-0 bottom-0 h-2/3 pointer-events-none"} style={{background: "radial-gradient(ellipse at 50% 100%, rgba(124,58,237,0.35) 0%, rgba(76,29,149,0.2) 35%, transparent 70%)"}}></div>
       <div className={"absolute inset-x-0 top-0 h-1/2 bg-gradient-to-b from-black/70 via-black/30 to-transparent pointer-events-none"}></div>
-      <img src={"/images/parliament.svg"} alt={""} aria-hidden={"true"} className={"absolute bottom-[20%] left-1/2 -translate-x-1/2 w-[150%] max-w-none h-auto"} style={{opacity: "0.78"}} />
-      <img src={"/images/crowd.svg"} alt={""} aria-hidden={"true"} className={"absolute bottom-0 inset-x-0 w-full h-[22vh] sm:h-[26vh] object-cover object-bottom"} />
+      
+      
       <div className={"absolute inset-0 pointer-events-none"} style={{background: "radial-gradient(ellipse at 28% 45%, transparent 35%, rgba(0,0,0,0.55) 75%, rgba(0,0,0,0.85) 100%)"}}></div>
-      </div>
-      <div className={"absolute top-3 right-3 sm:top-5 sm:right-5 md:top-6 md:right-6 z-20 w-[104px] sm:w-[180px] md:w-[210px] pointer-events-none"} style={{transform: "rotate(2deg)"}}>
-      <div className={"bg-paper-soft border-2 border-ink rounded-sm shadow-[5px_5px_0_0_rgba(42,24,72,0.35)] p-2 sm:p-2.5"}>
-      <div className={"flex items-center justify-between condensed text-[0.55rem] sm:text-[0.65rem] text-ink/75 mb-1.5 px-0.5"}>
-      <span>
-      Agenda poster · No. 001
-      </span>
-      <span className={"text-gold tracking-widest hidden sm:inline"}>
-      ★ ★ ★
-      </span>
-      </div>
-      <div className={"relative aspect-[3/4] overflow-hidden border border-ink/30"}>
-      <img alt={"Jimmedaar Janata Party founder presents eight agendas at the launch rally"} loading={"eager"} decoding={"async"} data-nimg={"fill"} className={"object-cover"} style={{position: "absolute", height: "100%", width: "100%", left: "0", top: "0", right: "0", bottom: "0", color: "transparent"}} sizes={"(max-width: 640px) 140px, (max-width: 768px) 180px, 210px"} srcSet={"/images/image_38.jpg 32w, /images/image_40.jpg 48w, /images/image_35.jpg 64w, /images/image_34.jpg 96w, /images/image_33.jpg 128w, /images/image_32.jpg 256w, /images/image_31.jpg 384w, /images/image_39.jpg 640w, /images/image_44.jpg 750w, /images/image_50.jpg 828w, /images/image_41.jpg 1080w, /images/image_43.jpg 1200w, /images/image_42.jpg 1920w, /images/image_79.jpg 2048w, /images/image_4.jpg 3840w"} src={"/images/image_4.jpg"} />
-      <div className={"absolute top-1.5 right-1.5 approved-stamp text-gold-soft bg-ink/40 !text-[0.5rem] sm:!text-[0.6rem] !px-1.5 !py-0.5 !tracking-[0.18em]"}>
-      Approved
-      </div>
-      </div>
-      </div>
       </div>
       <div className={"relative z-10 w-full self-stretch flex items-center"}>
       <div className={"max-w-7xl w-full mx-auto px-4 sm:px-6 pt-16 sm:pt-24 pb-28 sm:pb-32"}>
       <div className={"max-w-2xl"}>
-      <div className={"pr-[116px] sm:pr-0"}>
+      <div>
       <div className={"eyebrow text-gold mb-5 sm:mb-6 flex items-center gap-3"}>
       <span className={"inline-block"} style={{width: "12px", height: "12px", background: "#a78bfa", transform: "rotate(45deg)"}} aria-hidden={"true"}></span>
       <span>

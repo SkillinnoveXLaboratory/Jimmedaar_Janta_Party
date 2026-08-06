@@ -74,32 +74,7 @@ export default function SiteFooter() {
       <div className={"grid gap-10 lg:grid-cols-[minmax(0,16rem)_1fr] lg:gap-x-12 xl:gap-x-16 pb-10 sm:pb-12 border-b border-rule-on-ink"}>
       <div className={"max-w-md lg:max-w-xs"}>
       <a className={"flex shrink-0 items-center gap-3 group"} href={"/"}>
-      <svg width={"48"} height={"48"} viewBox={"0 0 200 200"} xmlns={"http://www.w3.org/2000/svg"} role={"img"} aria-label={"Jimmedaar Janata Party emblem"} className={"shrink-0 drop-shadow-sm"}>
-      <circle cx={"100"} cy={"100"} r={"96"} fill={"#1A1108"}></circle>
-      <circle cx={"100"} cy={"100"} r={"96"} fill={"none"} stroke={"#F4EBD7"} strokeWidth={"6"}></circle>
-      <circle cx={"100"} cy={"100"} r={"85"} fill={"none"} stroke={"#C9A227"} strokeWidth={"1.6"} strokeDasharray={"3 4"}></circle>
-      <circle cx={"100"} cy={"100"} r={"76"} fill={"none"} stroke={"#F4EBD7"} strokeWidth={"1.8"}></circle>
-      <g fill={"#C9A227"}>
-      <polygon points={"100,18 101.8,22.6 106.8,22.6 102.7,25.4 104.4,30 100,27.2 95.6,30 97.3,25.4 93.2,22.6 98.2,22.6"}></polygon>
-      <polygon points={"100,182 101.8,177.4 106.8,177.4 102.7,174.6 104.4,170 100,172.8 95.6,170 97.3,174.6 93.2,177.4 98.2,177.4"}></polygon>
-      <circle cx={"18"} cy={"100"} r={"2.4"}></circle>
-      <circle cx={"182"} cy={"100"} r={"2.4"}></circle>
-      </g>
-      <g transform={"translate(100 107)"} fill={"#F4EBD7"} stroke={"#F4EBD7"} strokeLinecap={"round"} strokeLinejoin={"round"}>
-      <path d={"M -3 -34 Q -15 -50 -30 -56"} fill={"none"} strokeWidth={"3"}></path>
-      <path d={"M 3 -34 Q 15 -50 30 -56"} fill={"none"} strokeWidth={"3"}></path>
-      <path d={"M -12 -10 Q -28 -16 -42 -22"} fill={"none"} strokeWidth={"3.6"}></path>
-      <path d={"M -16 2 Q -34 4 -48 2"} fill={"none"} strokeWidth={"3.6"}></path>
-      <path d={"M -12 20 Q -28 30 -40 38"} fill={"none"} strokeWidth={"3.6"}></path>
-      <path d={"M 12 -10 Q 28 -16 42 -22"} fill={"none"} strokeWidth={"3.6"}></path>
-      <path d={"M 16 2 Q 34 4 48 2"} fill={"none"} strokeWidth={"3.6"}></path>
-      <path d={"M 12 20 Q 28 30 40 38"} fill={"none"} strokeWidth={"3.6"}></path>
-      <ellipse cx={"0"} cy={"-28"} rx={"8"} ry={"6"}></ellipse>
-      <path d={"M -14 -22 Q -14 -8 -10 -4 L 10 -4 Q 14 -8 14 -22 Q 0 -27 -14 -22 Z"}></path>
-      <path d={"M -16 -5 Q -22 4 -18 18 Q -12 32 0 34 Q 12 32 18 18 Q 22 4 16 -5 Z"}></path>
-      <line x1={"0"} y1={"-3"} x2={"0"} y2={"32"} stroke={"#1A1108"} strokeWidth={"1.4"} opacity={"0.55"}></line>
-      </g>
-      </svg>
+      <img src={"/images/iconv1.jpeg"} alt={"Jimmedaar Janata Party"} width={48} height={48} className={"shrink-0 drop-shadow-sm rounded-sm object-cover w-12 h-12 border-2 border-paper"} />
       <div className={"leading-none"}>
       <div className={"condensed text-[0.95rem] sm:text-base font-semibold tracking-wider whitespace-nowrap text-paper"}>
       <div>

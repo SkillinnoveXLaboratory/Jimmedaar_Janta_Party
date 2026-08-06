@@ -278,7 +278,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39572 · Baniya Dukandar · Bareilly, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_188.jpg 1x, /images/image_26.jpg 2x"} src={"/images/image_26.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -291,7 +291,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39571 · Rahat Khan · Bareilly, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_13.png 1x, /images/image_2.png 2x"} src={"/images/image_2.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -304,7 +304,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39570 · Ala Herbal Pharma · Bareilly, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_10.png 1x, /images/image_3.png 2x"} src={"/images/image_3.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -340,7 +340,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39568 · Ashu Khan · Gulbarga, KA"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_9.png 1x, /images/image_5.png 2x"} src={"/images/image_5.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -353,7 +353,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39567 · Itachi Uchiha · Vrindavan, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_11.png 1x, /images/image_4.png 2x"} src={"/images/image_4.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -412,7 +412,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39563 · Neha Chuadhary · Muzaffarpur, BR"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_206.jpg 1x, /images/image_24.jpg 2x"} src={"/images/image_24.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -425,7 +425,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39561 · Anshu Kumari · NEW DELHI, DL"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_292.jpg 1x, /images/image_25.jpg 2x"} src={"/images/image_25.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -438,7 +438,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39560 · Sarojkumar Kamle · Hardoi, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_12.png 1x, /images/image_6.png 2x"} src={"/images/image_6.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -474,7 +474,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39558 · Kush · Saket"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_7.png 1x, /images/image.png 2x"} src={"/images/image.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -487,7 +487,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39557 · Jerin Joseph · Coimbatore, TN"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_29.jpg 1x, /images/image.jpg 2x"} src={"/images/image.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -523,7 +523,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39555 · Mukarram Husain · Delhi, DL"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_30.jpg 1x, /images/image_13.jpg 2x"} src={"/images/image_13.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -536,7 +536,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39554 · Vikash Tungaria"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_8.png 1x, /images/image_1.png 2x"} src={"/images/image_1.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -549,7 +549,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39553 · Ishaque Sameer · Varanasi, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_37.jpg 1x, /images/image_2.jpg 2x"} src={"/images/image_2.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -562,7 +562,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39552 · Gajendra Singh Meena · Alwar, RJ"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_36.jpg 1x, /images/image_1.jpg 2x"} src={"/images/image_1.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -714,7 +714,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39572 · Baniya Dukandar · Bareilly, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_188.jpg 1x, /images/image_26.jpg 2x"} src={"/images/image_26.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -727,7 +727,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39571 · Rahat Khan · Bareilly, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_13.png 1x, /images/image_2.png 2x"} src={"/images/image_2.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -740,7 +740,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39570 · Ala Herbal Pharma · Bareilly, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_10.png 1x, /images/image_3.png 2x"} src={"/images/image_3.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -776,7 +776,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39568 · Ashu Khan · Gulbarga, KA"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_9.png 1x, /images/image_5.png 2x"} src={"/images/image_5.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -789,7 +789,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39567 · Itachi Uchiha · Vrindavan, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_11.png 1x, /images/image_4.png 2x"} src={"/images/image_4.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -848,7 +848,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39563 · Neha Chuadhary · Muzaffarpur, BR"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_206.jpg 1x, /images/image_24.jpg 2x"} src={"/images/image_24.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -861,7 +861,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39561 · Anshu Kumari · NEW DELHI, DL"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_292.jpg 1x, /images/image_25.jpg 2x"} src={"/images/image_25.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -874,7 +874,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39560 · Sarojkumar Kamle · Hardoi, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_12.png 1x, /images/image_6.png 2x"} src={"/images/image_6.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -910,7 +910,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39558 · Kush · Saket"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_7.png 1x, /images/image.png 2x"} src={"/images/image.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -923,7 +923,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39557 · Jerin Joseph · Coimbatore, TN"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_29.jpg 1x, /images/image.jpg 2x"} src={"/images/image.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -959,7 +959,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39555 · Mukarram Husain · Delhi, DL"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_30.jpg 1x, /images/image_13.jpg 2x"} src={"/images/image_13.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -972,7 +972,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39554 · Vikash Tungaria"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_8.png 1x, /images/image_1.png 2x"} src={"/images/image_1.png"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -985,7 +985,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39553 · Ishaque Sameer · Varanasi, UP"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_37.jpg 1x, /images/image_2.jpg 2x"} src={"/images/image_2.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
@@ -998,7 +998,7 @@ export default function MainIntro() {
       </span>
       <span className={"inline-flex items-center gap-2.5 px-3 py-1 mx-1 rounded-full bg-paper border border-ink/10 whitespace-nowrap"} title={"REQ / 39552 · Gajendra Singh Meena · Alwar, RJ"}>
       <span className={"group relative shrink-0 overflow-hidden rounded-full border-2 border-ink bg-paper"} style={{width: "36px", height: "36px"}} aria-hidden={"true"}>
-      <img alt={""} loading={"lazy"} width={"36"} height={"36"} decoding={"async"} data-nimg={"1"} className={"h-full w-full object-cover [filter:grayscale(0.7)_sepia(0.25)_contrast(1.05)] transition duration-300 group-hover:[filter:none]"} style={{color: "transparent"}} srcSet={"/images/image_36.jpg 1x, /images/image_1.jpg 2x"} src={"/images/image_1.jpg"} />
+      
       </span>
       <span className={"flex flex-col leading-tight"}>
       <span className={"text-[0.78rem] font-medium text-ink"}>
