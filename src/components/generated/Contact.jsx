@@ -89,17 +89,23 @@ export default function Contact() {
       </div>
       </section>
       <div className={"max-w-3xl mx-auto px-4 sm:px-6"}>
-      <aside aria-label={"Advertisement"} data-ad-placement={"home_end"} data-ad-variant={"block"} data-testid={"ad-slot"} className={"my-10 border border-ink/25 bg-paper-soft px-3 pt-3 pb-4 sm:px-4 sm:pt-3.5 sm:pb-5"} style={{minHeight: "280px"}}>
-      <div className={"flex items-center gap-3 shrink-0 mb-3"} aria-hidden={"true"}>
+      <div aria-label={"Tribute to Netaji"} className={"my-10 border border-ink/25 bg-paper-soft px-3 pt-3 pb-6 sm:px-4 sm:pt-3.5 sm:pb-8"} style={{minHeight: "224px"}}>
+      <div className={"flex items-center gap-3 shrink-0 mb-4"} aria-hidden={"true"}>
       <span className={"condensed text-[0.65rem] tracking-[0.2em] uppercase text-ink/45"}>
-      Advertisement
+      Netaji · Tribute
       </span>
       <span className={"h-px flex-1 bg-ink/15"}></span>
       </div>
-      <div className={""}>
-      <ins className={"adsbygoogle"} style={{display: "block", width: "100%", minHeight: "224px"}} data-ad-client={"ca-pub-4127993377562392"} data-ad-slot={"2830448517"} data-ad-format={"auto"} data-full-width-responsive={"true"}></ins>
+      <div className={"text-center"}>
+      <img src={"/images/Netaji.png"} alt={"Netaji Subhas Chandra Bose"} className={"block w-40 sm:w-56 h-auto object-contain mx-auto mb-5"} loading={"lazy"} />
+      <p className={"text-sm sm:text-base text-ink/85 leading-loose max-w-xl mx-auto font-medium"}>
+      <span className={"block"}>Ab tumhare hawale hai watan sathiyon, watan walo, watan na bech dena,</span>
+      <span className={"block"}>Yah dharti, yah gagan na bech dena.</span>
+      <span className={"block"}>Shahidon ne bhai khoon watan ke vaste,</span>
+      <span className={"block"}>Shahidon ke kafan na bech dena.</span>
+      </p>
       </div>
-      </aside>
+      </div>
       </div>
     </>
   );
