@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { apiUrl } from '../config';
 
 export default function VerifyMember({ onClose }) {
   const [query, setQuery] = useState('');
@@ -25,7 +26,7 @@ export default function VerifyMember({ onClose }) {
 
     try {
       const response = await fetch(
-        `http://localhost:5000/api/members/verify?query=${encodeURIComponent(query.trim())}`
+        apiUrl(`/api/members/verify?query=${encodeURIComponent(query.trim())}`)
       );
       const data = await response.json();
 

@@ -1,5 +1,6 @@
-// Admin API client — talks to the Express backend at http://localhost:5000
-const API_BASE = 'http://localhost:5000';
+// Admin API client — talks to the Express backend (URL from src/config.js)
+import { apiUrl } from '../../config';
+
 const TOKEN_KEY = 'jjp_admin_token';
 
 export class ApiError extends Error {
@@ -30,7 +31,7 @@ async function request(path, { method = 'GET', body } = {}) {
 
   let res;
   try {
-    res = await fetch(`${API_BASE}${path}`, {
+    res = await fetch(apiUrl(path), {
       method,
       headers,
       body: body ? JSON.stringify(body) : undefined

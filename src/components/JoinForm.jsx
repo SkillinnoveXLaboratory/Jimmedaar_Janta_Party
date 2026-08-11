@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { apiUrl } from '../config';
 
 export default function JoinForm({ onClose }) {
   const [step, setStep] = useState(1);
@@ -56,7 +57,7 @@ export default function JoinForm({ onClose }) {
     setLoading(true);
 
     try {
-      const response = await fetch('http://localhost:5000/api/members', {
+      const response = await fetch(apiUrl('/api/members'), {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
