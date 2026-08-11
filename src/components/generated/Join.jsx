@@ -1,4 +1,4 @@
-export default function Join() {
+export default function Join({ setShowJoinForm }) {
   const agendas = [
     { id: '01', title: 'Kisanon Ko Facility', desc: 'MSP, irrigation, cold storage, easy credit for farmers.' },
     { id: '02', title: 'Contract Coal Khatm', desc: 'End exploitative coal contracts and opaque deals.' },
@@ -56,12 +56,15 @@ export default function Join() {
       </p>
       </div>
       <div className={"text-center mt-10"}>
-      <a className={"condensed text-sm font-semibold tracking-wider bg-ink text-paper px-8 py-4 rounded-sm hover:bg-gold hover:text-ink transition inline-flex items-center gap-2"} href={"/join"}>
+      <button 
+        onClick={() => setShowJoinForm?.(true)}
+        className={"condensed text-sm font-semibold tracking-wider bg-ink text-paper px-8 py-4 rounded-sm hover:bg-gold hover:text-ink transition inline-flex items-center gap-2"}
+      >
       JOIN JIMMEDAAR
       <span aria-hidden={"true"}>
       →
       </span>
-      </a>
+      </button>
       <p className={"text-sm text-ink/70 mt-4 max-w-md mx-auto leading-relaxed"}>
       Join{" "}
       <strong className={"text-ink"}>

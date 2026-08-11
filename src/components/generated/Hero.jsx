@@ -1,4 +1,4 @@
-export default function Hero() {
+export default function Hero({ setShowJoinForm }) {
   return (
     <>
       <section aria-label={"Hero — Jimmedaar Janata Party agendas"} className={"relative jjp-hero text-paper overflow-hidden border-b-2 border-[#c9a227]/40 min-h-[100svh] sm:min-h-[88vh] flex"}>
@@ -39,7 +39,7 @@ export default function Hero() {
       Eight agendas. Community powered. Jimmedaar Janata Party isi agenda per kaam karega.
       </p>
       <div className={"flex flex-col sm:flex-row gap-3 sm:gap-4 mb-5"}>
-      <a className={"condensed text-sm font-semibold tracking-wider bg-gold text-ink px-7 py-4 min-h-[48px] rounded-sm hover:bg-paper hover:text-ink transition inline-flex items-center justify-center gap-2 shadow-[0_6px_18px_rgba(124,58,237,0.4)]"} href={"/join"}>
+      <a className={"condensed text-sm font-semibold tracking-wider bg-gold text-ink px-7 py-4 min-h-[48px] rounded-sm hover:bg-paper hover:text-ink transition inline-flex items-center justify-center gap-2 shadow-[0_6px_18px_rgba(124,58,237,0.4)]"} href={"/join"} onClick={(event) => { event.preventDefault(); event.stopPropagation(); setShowJoinForm?.(true); }}>
       JOIN JIMMEDAAR
       <span aria-hidden={"true"}>
       →

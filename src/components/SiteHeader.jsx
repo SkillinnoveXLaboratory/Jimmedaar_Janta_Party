@@ -56,7 +56,7 @@ function PartyEmblem() {
   );
 }
 
-export default function SiteHeader() {
+export default function SiteHeader({ setShowJoinForm, setShowVerifyMember }) {
   const [open, setOpen] = useState(false);
 
   const navigate = useCallback((href, event) => {
@@ -135,16 +135,26 @@ export default function SiteHeader() {
           <a
             className="hidden sm:inline-flex items-center condensed text-xs font-semibold tracking-wider bg-ink text-paper px-3.5 sm:px-4 py-3 min-h-[44px] rounded-sm hover:bg-gold hover:text-ink transition whitespace-nowrap"
             href="/join"
-            onClick={(e) => navigate('/join', e)}
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              setOpen(false);
+              setShowJoinForm?.(true);
+            }}
           >
             JOIN JIMMEDAAR →
           </a>
           <a
             className="hidden xl:inline-flex items-center condensed text-xs font-semibold tracking-wider border-2 border-ink text-ink px-3.5 py-3 min-h-[44px] rounded-sm hover:bg-ink hover:text-paper transition whitespace-nowrap"
             href="/voice/raise"
-            onClick={(e) => navigate('/voice/raise', e)}
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              setOpen(false);
+              setShowVerifyMember?.(true);
+            }}
           >
-            RAISE AN ISSUE →
+            VERIFY MEMBER →
           </a>
 
           <button
@@ -182,16 +192,26 @@ export default function SiteHeader() {
             <a
               className="condensed text-xs font-semibold tracking-wider bg-ink text-paper px-5 py-3 rounded-sm text-center mt-2"
               href="/join"
-              onClick={(e) => navigate('/join', e)}
+              onClick={(e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                setOpen(false);
+                setShowJoinForm?.(true);
+              }}
             >
               JOIN JIMMEDAAR →
             </a>
             <a
               className="condensed text-xs font-semibold tracking-wider border-2 border-ink text-ink px-5 py-3 rounded-sm text-center"
               href="/voice/raise"
-              onClick={(e) => navigate('/voice/raise', e)}
+              onClick={(e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                setOpen(false);
+                setShowVerifyMember?.(true);
+              }}
             >
-              RAISE AN ISSUE →
+              VERIFY MEMBER →
             </a>
           </div>
         </nav>

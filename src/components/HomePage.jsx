@@ -15,14 +15,14 @@ import Join from './generated/Join.jsx';
 import RevolutionariesHeading from './generated/RevolutionariesHeading.jsx';
 import Contact from './generated/Contact.jsx';
 
-export default function HomePage() {
+export default function HomePage({ setShowJoinForm, setShowVerifyMember }) {
   return (
     <>
       <PreMain />
       <main id="main-content" className="min-h-screen bg-paper text-ink relative">
-        <SiteHeader />
+        <SiteHeader setShowJoinForm={setShowJoinForm} setShowVerifyMember={setShowVerifyMember} />
         <MainIntro />
-      <Hero />
+      <Hero setShowJoinForm={setShowJoinForm} />
       <ProtestUpdate />
       <ViralVideos />
       <TopPatronHeading />
@@ -31,7 +31,7 @@ export default function HomePage() {
       <Faq />
       <News />
       <Articles />
-      <Join />
+      <Join setShowJoinForm={setShowJoinForm} />
       <RevolutionariesHeading />
       <Contact />
         <SiteFooter />

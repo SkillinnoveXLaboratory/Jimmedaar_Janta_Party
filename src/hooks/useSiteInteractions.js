@@ -66,8 +66,15 @@ export function useSiteInteractions() {
       const href = anchor.getAttribute('href');
       if (!href || href.startsWith('http') || href.startsWith('mailto:') || href.startsWith('tel:')) return;
 
+      if (href.startsWith('#/')) return; // app route (hash-router) – let the browser change the hash
+
       if (href.startsWith('#')) {
-        const target = document.querySelector(href);
+        let target = null;
+        try {
+          target = document.querySelector(href);
+        } catch {
+          return;
+        }
         if (target) {
           event.preventDefault();
           target.scrollIntoView({ behavior: 'smooth', block: 'start' });

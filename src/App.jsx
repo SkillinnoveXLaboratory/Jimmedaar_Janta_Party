@@ -1,16 +1,41 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import HomePage from './components/HomePage.jsx';
+import JoinForm from './components/JoinForm.jsx';
+import VerifyMember from './components/VerifyMember.jsx';
+import AdminLogin from './components/admin/AdminLogin.jsx';
+import AdminDashboard from './components/admin/AdminDashboard.jsx';
 import { useSiteInteractions } from './hooks/useSiteInteractions.js';
 import siteMeta from './site-meta.json';
 
+function getRouteFromHash() {
+  const hash = window.location.hash;
+  if (hash.startsWith('#/admin/login')) return 'admin-login';
+  if (hash.startsWith('#/admin/dashboard')) return 'admin-dashboard';
+  return 'home';
+}
+
 export default function App() {
+  const [showJoinForm, setShowJoinForm] = useState(false);
+  const [showVerifyMember, setShowVerifyMember] = useState(false);
+  const [route, setRoute] = useState(getRouteFromHash);
   useSiteInteractions();
+
+  useEffect(() => {
+    const onHashChange = () => setRoute(getRouteFromHash());
+    window.addEventListener('hashchange', onHashChange);
+    return () => window.removeEventListener('hashchange', onHashChange);
+  }, []);
 
   useEffect(() => {
     document.documentElement.lang = 'en-IN';
     document.documentElement.dataset.locale = 'en';
     document.documentElement.className = siteMeta.htmlClass;
-    document.title = siteMeta.title;
+
+    if (route.startsWith('admin')) {
+      document.title = route === 'admin-login' ? 'Admin Login — JJP' : 'Admin Dashboard — JJP';
+    } else {
+      document.title = siteMeta.title;
+    }
 
     let desc = document.querySelector('meta[name="description"]');
     if (!desc) {
@@ -30,7 +55,21 @@ export default function App() {
       }
       ld.textContent = siteMeta.ldJson;
     }
-  }, []);
+  }, [route]);
 
-  return <HomePage />;
+  if (route === 'admin-login') {
+    return <AdminLogin />;
+  }
+
+  if (route === 'admin-dashboard') {
+    return <AdminDashboard />;
+  }
+
+  return (
+    <>
+      <HomePage setShowJoinForm={setShowJoinForm} setShowVerifyMember={setShowVerifyMember} />
+      {showJoinForm && <JoinForm onClose={() => setShowJoinForm(false)} />}
+      {showVerifyMember && <VerifyMember onClose={() => setShowVerifyMember(false)} />}
+    </>
+  );
 }
