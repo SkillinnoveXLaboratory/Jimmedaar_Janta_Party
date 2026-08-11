@@ -56,40 +56,6 @@ export default function Hero({ setShowJoinForm }) {
       </svg>
       Read our eight agendas
       </a>
-      <dl className={"grid grid-cols-2 sm:grid-cols-4 gap-6 sm:gap-8 pt-6 border-t border-paper/25 max-w-2xl"}>
-      <div>
-      <dt className={"font-display text-3xl sm:text-4xl text-paper drop-shadow-[0_1px_6px_rgba(0,0,0,0.6)]"}>
-      39,514
-      </dt>
-      <dd className={"condensed text-[0.7rem] text-paper/70 mt-1"}>
-      {"Members & counting"}
-      </dd>
-      </div>
-      <div>
-      <dt className={"font-display text-3xl sm:text-4xl text-paper drop-shadow-[0_1px_6px_rgba(0,0,0,0.6)]"}>
-      8
-      </dt>
-      <dd className={"condensed text-[0.7rem] text-paper/70 mt-1"}>
-      Agendas
-      </dd>
-      </div>
-      <div>
-      <dt className={"font-display text-3xl sm:text-4xl text-paper drop-shadow-[0_1px_6px_rgba(0,0,0,0.6)]"}>
-      50+
-      </dt>
-      <dd className={"condensed text-[0.7rem] text-paper/70 mt-1"}>
-      Patrons
-      </dd>
-      </div>
-      <div>
-      <dt className={"font-display text-3xl sm:text-4xl text-paper drop-shadow-[0_1px_6px_rgba(0,0,0,0.6)]"}>
-      ∞
-      </dt>
-      <dd className={"condensed text-[0.7rem] text-paper/70 mt-1"}>
-      Patience
-      </dd>
-      </div>
-      </dl>
       </div>
       </div>
       </div>
