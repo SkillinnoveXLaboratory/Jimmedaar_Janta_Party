@@ -20,17 +20,28 @@ export default function Hero({ setShowJoinForm }) {
       Eight Agendas · Since 2026
       </span>
       </div>
-      <h1 className={"text-[1.9rem] sm:text-7xl md:text-8xl lg:text-[7.5rem] leading-[0.98] sm:leading-[0.92] mb-6 sm:mb-8 break-words"}>
-      <span className={"block text-paper"}>
-      Jimmedaar
-      </span>
-      <span className={"block text-gold"}>
-      Janata Party.
-      </span>
-      <span className={"block text-paper"}>
-      <em></em>
-      </span>
-      </h1>
+<h1 className="text-[1.9rem] sm:text-7xl md:text-8xl lg:text-[7.5rem] leading-[0.98] sm:leading-[0.92] mb-6 sm:mb-8 break-words font-black">
+  <span
+    className="block font-black"
+    style={{ color: "#138808" }}
+  >
+    Jimmedaar
+  </span>
+
+  <span
+    className="block font-black"
+    style={{ color: "#FFFFFF" }}
+  >
+    Janata
+  </span>
+
+  <span
+    className="block font-black"
+    style={{ color: "#FF9933" }}
+  >
+    Party.
+  </span>
+</h1>
       </div>
       <p className={"condensed text-[0.68rem] sm:text-xs font-semibold uppercase tracking-[0.14em] text-gold-soft/90 mb-5 drop-shadow-[0_1px_6px_rgba(0,0,0,0.6)]"}>
       Kisan · Rojgar · Shiksha · Sehat · Mahangai
