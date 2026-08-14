@@ -50,7 +50,7 @@ export default function Hero({ setShowJoinForm }) {
       Eight agendas. Community powered. Jimmedaar Janata Party isi agenda per kaam karega.
       </p>
       <div className={"flex flex-col sm:flex-row gap-3 sm:gap-4 mb-5"}>
-      <a className={"condensed text-sm font-semibold tracking-wider bg-orange text-white px-7 py-4 min-h-[48px] rounded-sm hover:bg-paper hover:text-ink transition inline-flex items-center justify-center gap-2 shadow-[0_6px_18px_rgba(124,58,237,0.4)]"} href={"/join"} onClick={(event) => { event.preventDefault(); event.stopPropagation(); setShowJoinForm?.(true); }}>
+      <a className={"condensed text-sm font-semibold tracking-wider bg-orange-500 text-white px-7 py-4 min-h-[48px] rounded-sm hover:bg-paper hover:text-ink transition inline-flex items-center justify-center gap-2 shadow-[0_6px_18px_rgba(124,58,237,0.4)]"} href={"/join"} onClick={(event) => { event.preventDefault(); event.stopPropagation(); setShowJoinForm?.(true); }}>
       JOIN MEMBER
       <span aria-hidden={"true"}>
       →
