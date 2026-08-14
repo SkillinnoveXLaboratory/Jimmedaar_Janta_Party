@@ -51,7 +51,7 @@ export default function Hero({ setShowJoinForm }) {
       </p>
       <div className={"flex flex-col sm:flex-row gap-3 sm:gap-4 mb-5"}>
       <a
-  style={{ backgroundColor: "#FF9933", color: "#fff" }}
+  style={{ backgroundColor: "#ff3333", color: "#fff" }}
   className="condensed text-sm font-semibold tracking-wider px-7 py-4 min-h-[48px] rounded-sm inline-flex items-center justify-center gap-2"
   href="/join"
   onClick={(event) => {
