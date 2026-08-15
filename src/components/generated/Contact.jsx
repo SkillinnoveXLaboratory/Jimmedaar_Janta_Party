@@ -19,11 +19,11 @@ export default function Contact() {
       <ul className={"space-y-6 border-t border-rule"}>
       <li className={"grid grid-cols-[7.5rem_1fr] gap-4 pt-6 border-b border-rule pb-6"}>
       <div className={"condensed text-[0.7rem] text-ink/70"}>
-      Website
+      Youtube
       </div>
       <div>
-      <a href={"mailto:contact@localhost?subject=Website%20query"} className={"font-medium hover:text-gold-ink transition break-all"}>
-      contact@localhost
+      <a href={"https://www.youtube.com/@1982party"} className={"font-medium hover:text-gold-ink transition break-all"}>  <i className="fa-brands fa-youtube text-red-600 text-xl"></i>
+      youtube.com/@1982party
       </a>
       <p className={"mt-1.5 text-sm text-ink/65 leading-snug"}>
       Agenda queries — farmers, jobs, schools, hospitals, mahangai — email the website inbox.
