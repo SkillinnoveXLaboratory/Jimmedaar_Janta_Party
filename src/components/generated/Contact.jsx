@@ -101,7 +101,7 @@ export default function Contact() {
       <p className={"text-sm sm:text-base text-ink/85 leading-loose max-w-xl mx-auto font-medium"}>
       <span className={"block"}>Ab tumhare hawale hai watan sathiyon, watan walo, watan na bech dena,</span>
       <span className={"block"}>Yah dharti, yah gagan na bech dena.</span>
-      <span className={"block"}>Shahidon ne bhai khoon watan ke vaste,</span>
+      <span className={"block"}>Shahidon ne bahai khoon watan ke vaste,</span>
       <span className={"block"}>Shahidon ke kafan na bech dena.</span>
       </p>
       </div>
