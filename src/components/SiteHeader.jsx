@@ -191,7 +191,11 @@ export default function SiteHeader({ setShowJoinForm, setShowVerifyMember }) {
               SUPPORT THE DEV →
             </a>
             <a
-              className="condensed text-xs font-semibold tracking-wider bg-ink text-paper px-5 py-3 rounded-sm text-center mt-2"
+              
+        
+          style={{ backgroundColor: "#ff3333", color: "#fff" }}
+            
+              className="condensed text-xs font-semibold tracking-wider px-5 py-3 rounded-sm text-center mt-2"
               href="/join"
               onClick={(e) => {
                 e.preventDefault();
