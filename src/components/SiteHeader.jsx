@@ -133,7 +133,8 @@ export default function SiteHeader({ setShowJoinForm, setShowVerifyMember }) {
             SUPPORT THE DEV →
           </a>
           <a
-            className="hidden sm:inline-flex items-center condensed text-xs font-semibold tracking-wider bg-ink text-paper px-3.5 sm:px-4 py-3 min-h-[44px] rounded-sm hover:bg-gold hover:text-ink transition whitespace-nowrap"
+          style={{ backgroundColor: "#ff3333", color: "#fff" }}
+            className="hidden sm:inline-flex items-center condensed text-xs font-semibold tracking-wider  px-3.5 sm:px-4 py-3 min-h-[44px] rounded-sm hover:bg-gold hover:text-ink transition whitespace-nowrap"
             href="/join"
             onClick={(e) => {
               e.preventDefault();
